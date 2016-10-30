@@ -16,6 +16,14 @@ gem 'bootstrap-sass'
 gem 'font-awesome-sass'
 gem 'simple_form'
 gem 'autoprefixer-rails'
+gem 'js-routes', '~> 1.3'
+gem 'react-rails', '~> 1.8'
+gem 'react-bootstrap-rails', '~> 0.30.2'
+
+source 'https://rails-assets.org' do
+  gem 'rails-assets-classnames'
+  gem 'rails-assets-react-modal'
+end
 
 group :development, :test do
   gem 'binding_of_caller'
@@ -24,8 +32,8 @@ group :development, :test do
   gem 'pry-byebug'
   gem 'pry-rails'
   gem 'spring'
-  
-  
+
+
 end
 
 gem 'rails_12factor', group: :production
