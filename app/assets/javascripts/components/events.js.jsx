@@ -47,17 +47,23 @@ var ItemCard = React.createClass({
       return (<div className="title">{tstring}</div>)
     }
   },
+  returnPicture: function() {
+    return (
+      <img height="100" src="/assets/andré-berthier-(bentham)---prison-circulaire-d’autun-cf45a5bba6eec3d2db6730a47bb1c7f70a589aa8bc4a846cda1fe2e66ac798a7.jpg" alt="André berthier (bentham)   prison circulaire d’autun cf45a5bba6eec3d2db6730a47bb1c7f70a589aa8bc4a846cda1fe2e66ac798a7"/>
+    )
+  },
   render: function() {
     filterItem = classNames({
       "filter-item": true,
-      "blue": this.props.item.lv1 == 'Art',
-      "red": this.props.item.lv1 == 'Science',
-      "grey": this.props.item.lv1 == 'Politics'
+      "blue": this.props.item.lv1 == 'art',
+      "red": this.props.item.lv1 == 'science',
+      "grey": this.props.item.lv1 == 'politics'
     });
-    var title = this.props.item.name.toUpperCase();
+    var title = this.props.item.ind.toUpperCase();
     return (
       <div className="card-event">
         {this.firstChars({string: title, tlength: 38})}
+        {this.returnPicture()}
         <div className="content">
           <div className="subtitle">
             {this.props.item.event}

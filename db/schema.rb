@@ -11,16 +11,26 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20161026212403) do
+ActiveRecord::Schema.define(version: 20161030164635) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
+
+  create_table "artworks", force: :cascade do |t|
+    t.string   "name"
+    t.integer  "ind_id"
+    t.integer  "date"
+    t.string   "detail"
+    t.string   "picture"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
 
   create_table "events", force: :cascade do |t|
     t.string   "lv1"
     t.string   "lv2"
     t.string   "lv3"
-    t.string   "name"
+    t.string   "ind"
     t.string   "event"
     t.string   "region"
     t.string   "country"

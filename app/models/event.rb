@@ -1,5 +1,5 @@
 class Event < ActiveRecord::Base
-
+  has_many :artworks, dependent: :destroy
 
   def self.build_categories
     lv1, lv2, lv3, country, region = [], [], [], [], []
@@ -18,16 +18,19 @@ class Event < ActiveRecord::Base
   def self.build_hash
     events = []
     Event.all.each do |event|
+      artwork = Artwork.find_by_ind_id(Event.first)
+      picture = artwork.picture if artwork
       events << {
         lv1: event.lv1,
         lv2: event.lv2,
         lv3: event.lv3,
-        name: event.name,
+        ind: event.ind,
         event: event.event,
         region: event.region,
         country: event.country,
+        picture: picture,
         start_date: event.start_date,
-        end_date: event.end_date
+        end_date: event.end_date,
       }
     end
     events
@@ -40,14 +43,14 @@ class Event < ActiveRecord::Base
         events << {
           start_date: { year: element.start_date.to_s },
           end_date: { year: element.end_date.to_s },
-          text: { headline: element.name, text: element.event },
+          text: { headline: element.ind, text: element.event },
           group: element.lv3,
           background: "color:#E6BC79;"
         }
       else
         events << {
           start_date: { year: element.start_date.to_s },
-          text: { headline: element.name, text: element.event },
+          text: { headline: element.ind, text: element.event },
           group: element.lv3,
           background: "color:#3C3AB2;"
         }

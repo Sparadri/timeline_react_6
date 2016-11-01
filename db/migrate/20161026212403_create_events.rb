@@ -4,7 +4,7 @@ class CreateEvents < ActiveRecord::Migration
       t.string :lv1
       t.string :lv2
       t.string :lv3
-      t.string :name
+      t.string :ind
       t.string :event
       t.string :region
       t.string :country

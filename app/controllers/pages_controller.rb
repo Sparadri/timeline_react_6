@@ -6,6 +6,7 @@ class PagesController < ApplicationController
     @events = Event.build_hash
     @json = { events: @selected_events }.to_json
     @chrono = Event.build_chrono
+    @artworks = Artwork.all
   end
 
   private
