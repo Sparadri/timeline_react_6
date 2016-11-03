@@ -18,7 +18,7 @@ class Event < ActiveRecord::Base
   def self.build_hash
     events = []
     Event.all.each do |event|
-      artwork = Artwork.find_by_ind_id(Event.first)
+      artwork = Artwork.find_by_ind_id(event.id)
       picture = artwork.picture if artwork
       events << {
         lv1: event.lv1,

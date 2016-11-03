@@ -2,7 +2,7 @@
  * CSS code specific to home page
  * (margin/padding adjustments)
  * ------------------------------------- */
- .filter {
+  .filter {
     font-size: 0.8em;
     margin-top: 30px;
     margin: 30px 120px 0px 120px;
@@ -38,6 +38,7 @@
     color: #676666;
     font-weight: bold;
     align-self: center;
+    text-transform: capitalize;
   }
   .number {
     font-size: 0.85em;
@@ -116,8 +117,9 @@
 }
 .card-wrapper {
   margin: 90px 120px 0px 120px;
+  text-transform: capitalize;
   .card-event {
-    height: 110px;
+    height: 175px;
     padding: 5px 10px;
     position: relative;
     border: 1px solid #f9f9f9;;
@@ -133,11 +135,14 @@
     .title {
       font-weight: bolder;
       color: #2980b9;
+      position: absolute;
+      left: 170px;
     }
     .filters {
       display: flex;
       margin: 0px 0px 0px 0px;
-      bottom: 5px;
+      bottom: 12px;
+      left: 170px;
       position: absolute;
       .blue {
         background-color: rgba(60, 113, 231, 0.65);
@@ -179,13 +184,20 @@
     }
     .content {
       display: flex;
-      margin: 5px 0px 5px 20px;
+      margin: 5px 0px 5px 0px;
       font-size: 0.9em;
       color: #636262;
       align-items: center;
+      .empty-pic {
+          background-color: #f3f5e7;
+          border: 1px solid #c2c2c2;
+          width: 150px;
+          height: 150px;
+       }
       .subtitle {
         flex-grow: 1;
         font-style: italic;
+        margin-left: 10px;
       }
       .region-box {
         display: flex;

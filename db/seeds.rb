@@ -48,9 +48,11 @@ class Worka
   def initialize
     @csv_options = { col_sep: ',', force_quotes: true, quote_char: '"', headers: :first_row }
     @filepath    = "#{Rails.root}/db/oeuvre.csv"
+    @artworks = []
 
     p ">> started"
     parse_csv
+
     p ">> finished"
   end
 
@@ -64,16 +66,28 @@ class Worka
     end
 
     CSV.foreach(@filepath, @csv_options) do |row|
+      unless row['picture'].nil?
+        File.open("#{Rails.root}/app/assets/images/#{row['picture']}.jpg")
+      end
+    end
+
+    CSV.foreach(@filepath, @csv_options) do |row|
+      unless row['picture'].nil?
+        row['date']
+        pic = "#{Rails.root}/app/assets/images/#{row['picture']}.jpg"
+        cloud_pic = Cloudinary::Uploader.upload(File.open(pic))
+        picture_url = cloud_pic["secure_url"]
+      end
+
       name = row['name'].downcase if row['name']
       ind = Event.find_by_ind(row['ind'].downcase) if row['ind']
       detail = row['detail'].downcase if row['detail']
-      picture = "#{row['picture'].downcase}.jpg" if row['picture']
       date = row['date'].to_i
       new_element = {
         name: name,
         date: date,
         detail: detail,
-        picture: picture
+        picture: picture_url
       }
 
       if ind && date != 0 && name
@@ -84,10 +98,7 @@ class Worka
       end
     end
   end
-
-
 end
 
-Event.destroy_all
-Eventa.new
+Artwork.destroy_all
 Worka.new

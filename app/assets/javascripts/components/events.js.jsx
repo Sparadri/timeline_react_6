@@ -48,9 +48,16 @@ var ItemCard = React.createClass({
     }
   },
   returnPicture: function() {
-    return (
-      <img height="100" src="/assets/andré-berthier-(bentham)---prison-circulaire-d’autun-cf45a5bba6eec3d2db6730a47bb1c7f70a589aa8bc4a846cda1fe2e66ac798a7.jpg" alt="André berthier (bentham)   prison circulaire d’autun cf45a5bba6eec3d2db6730a47bb1c7f70a589aa8bc4a846cda1fe2e66ac798a7"/>
-    )
+    if (this.props.item.picture != null) {
+      var url = this.props.item.picture.split("upload/").join("upload/bo_1px_solid_rgb:8c8bc7,c_fill,h_150,r_1,w_150/");
+      return (
+        <img src={url}/>
+      )
+    } else {
+      return (
+        <div className="empty-pic"></div>
+      )
+    }
   },
   render: function() {
     filterItem = classNames({
@@ -63,8 +70,8 @@ var ItemCard = React.createClass({
     return (
       <div className="card-event">
         {this.firstChars({string: title, tlength: 38})}
-        {this.returnPicture()}
         <div className="content">
+          {this.returnPicture()}
           <div className="subtitle">
             {this.props.item.event}
           </div>

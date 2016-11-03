@@ -1,6 +1,3 @@
-<% @artworks.each do |art| %>
-  <%= image_tag("#{art.picture}", height: '100') %>
-<% end %>
 
 <%=  react_component "Main",
           render(template: 'pages/home.json.jbuilder') %>
