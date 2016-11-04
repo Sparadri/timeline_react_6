@@ -6,15 +6,19 @@ var Events = React.createClass({
   render: function() {
     return (
       <div className="card-wrapper">
-          <div className="row">
           {this.props.events.map(function(item, index) {
             return (
-              <div key={index} className="col-xs-12 col-sm-6 col-md-4">
-                <ItemCard item={item}/>
+              <div className="row">
+                <div key={index}>
+                  <div className="col-xs-2"></div>
+                  <div className="col-xs-8">
+                    <ItemCard item={item}/>
+                  </div>
+                  <div className="col-xs-2"></div>
+                </div>
               </div>
             )
           })}
-        </div>
       </div>
     )
   }
@@ -59,6 +63,19 @@ var ItemCard = React.createClass({
       )
     }
   },
+  returnArtwork: function() {
+    return (
+      <div className="art-wrapper">
+          {this.props.item.artwork.map(function(item, index) {
+            return (
+              <div key={index}>
+                <CardContent artwork={item}/>
+              </div>
+            )
+          })}
+      </div>
+    )
+  },
   render: function() {
     filterItem = classNames({
       "filter-item": true,
@@ -69,21 +86,13 @@ var ItemCard = React.createClass({
     var title = this.props.item.ind.toUpperCase();
     return (
       <div className="card-event">
-        {this.firstChars({string: title, tlength: 38})}
-        <div className="content">
-          {this.returnPicture()}
-          <div className="subtitle">
-            {this.props.item.event}
-          </div>
-          <div className="region-box">
-            <div className="region">
-              {this.props.item.region}
-            </div>
-            <div className="date">
-              {this.returnDate()}
-            </div>
+        <div className="card-header">
+          {this.firstChars({string: title, tlength: 38})}
+          <div className="region">
+            {this.props.item.region} | <span className="date"> {this.returnDate()}</span>
           </div>
         </div>
+          {this.returnArtwork()}
         <div className="filters">
           <div className={filterItem}>
             {this.props.item.lv1}
@@ -95,6 +104,34 @@ var ItemCard = React.createClass({
             {this.props.item.lv3}
           </div>
         </div>
+      </div>
+    )
+  }
+});
+
+var CardContent = React.createClass({
+  getInitialState() {
+      return {
+        is_selected: true
+      };
+  },
+  returnPicture: function() {
+    if (this.props.artwork.picture != null) {
+      var url = this.props.artwork.picture.split("upload/").join("upload/bo_1px_solid_rgb:8c8bc7,c_fill,h_100,r_1,w_100/");
+      return (
+        <img src={url}/>
+      )
+    }
+  },
+  render: function() {
+    filterItem = classNames({
+    });
+    return (
+      <div className="art-content">
+        <div className="art-date">{this.props.artwork.date}</div>
+        {this.returnPicture()}
+        <div className="art-name">{this.props.artwork.name}</div>
+        <div className="art-detail">{this.props.artwork.detail}</div>
       </div>
     )
   }

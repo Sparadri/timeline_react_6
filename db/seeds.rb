@@ -72,6 +72,7 @@ class Worka
     end
 
     CSV.foreach(@filepath, @csv_options) do |row|
+      picture_url = 0
       unless row['picture'].nil?
         row['date']
         pic = "#{Rails.root}/app/assets/images/#{row['picture']}.jpg"
@@ -81,11 +82,15 @@ class Worka
 
       name = row['name'].downcase if row['name']
       ind = Event.find_by_ind(row['ind'].downcase) if row['ind']
-      detail = row['detail'].downcase if row['detail']
+      detail = row['detail'] if row['detail']
+      movement = row['movement'].downcase if row['movement']
+      genre = row['genre'].downcase if row['genre']
       date = row['date'].to_i
       new_element = {
         name: name,
         date: date,
+        movement: movement,
+        genre: genre,
         detail: detail,
         picture: picture_url
       }
@@ -100,5 +105,10 @@ class Worka
   end
 end
 
-Artwork.destroy_all
-Worka.new
+# Eventa.new
+# Worka.new
+
+# Artwork.all.each do |art|
+#   art.movement = art.movement.downcase unless art.movement.nil?
+#   art.save
+# end

@@ -5,6 +5,8 @@ class CreateArtworks < ActiveRecord::Migration
       t.references :ind
       t.integer :date
       t.string :detail
+      t.string :movement
+      t.string :genre
       t.string :picture
 
       t.timestamps null: false

@@ -116,11 +116,10 @@
   }
 }
 .card-wrapper {
-  margin: 90px 120px 0px 120px;
+  margin-top: 50px;
   text-transform: capitalize;
   .card-event {
-    height: 175px;
-    padding: 5px 10px;
+    padding: 20px 20px 40px 20px;
     position: relative;
     border: 1px solid #f9f9f9;;
     box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
@@ -132,17 +131,29 @@
       box-shadow: 0 14px 28px rgba(0, 0, 0, 0.1), 0 5px 10px rgba(0, 0, 0, 0.1);
       border-radius: 0px 0px 3px 3px;
     }
-    .title {
-      font-weight: bolder;
-      color: #2980b9;
-      position: absolute;
-      left: 170px;
+    .card-header {
+      display: flex;
+      flex-flow: row;
+      margin-bottom: 15px;
+      .title {
+        font-weight: bolder;
+        color: #2980b9;
+        flex-grow: 1;
+      }
+      .date {
+        font-weight: bold;
+      }
+      .region {
+        display: flex;
+        color: #616161;
+        font-size: 0.85em;
+      }
     }
     .filters {
       display: flex;
       margin: 0px 0px 0px 0px;
-      bottom: 12px;
-      left: 170px;
+      bottom: 10px;
+      right: 5px;
       position: absolute;
       .blue {
         background-color: rgba(60, 113, 231, 0.65);
@@ -182,34 +193,29 @@
         }
       }
     }
-    .content {
+    .art-content {
+      padding: 15px 30px 15px 30px;
       display: flex;
-      margin: 5px 0px 5px 0px;
-      font-size: 0.9em;
-      color: #636262;
-      align-items: center;
       .empty-pic {
           background-color: #f3f5e7;
           border: 1px solid #c2c2c2;
           width: 150px;
           height: 150px;
-       }
-      .subtitle {
-        flex-grow: 1;
-        font-style: italic;
-        margin-left: 10px;
       }
-      .region-box {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        .date {
-          font-weight: bold;
-          min-width: 120px;
-          text-align: center;
-        }
-        .region {
-        }
+      .art-name {
+        align-self: center;
+        margin-left: 30px;
+        width: 250px;
+      }
+      .art-detail {
+        margin-left: 30px;
+        font-size: 0.75em;
+        width: 620px;
+        text-transform: none;
+      }
+      .art-date {
+        align-self: center;
+        margin-right: 20px;
       }
     }
   }

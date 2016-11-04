@@ -18,17 +18,34 @@ class Event < ActiveRecord::Base
   def self.build_hash
     events = []
     Event.all.each do |event|
-      artwork = Artwork.find_by_ind_id(event.id)
-      picture = artwork.picture if artwork
+      if event.lv3 == "painting movement"
+        artworks = Artwork.all.select { |artwork| artwork.movement == event.ind }
+      else
+        artworks = Artwork.all.select { |artwork| artwork.ind_id == event.id }
+      end
+
+      if artworks
+        art_array = []
+        artworks.sort { |x , y| x.date <=> y.date }.each do |artwork|
+          art_array << { picture: artwork.picture,
+                          name: artwork.name,
+                          date: artwork.date,
+                          detail: artwork.detail }
+        end
+      else
+          art_array << { picture: 0,
+                      name: event.event,
+                      date: 0,
+                      detail: 0 }
+      end
       events << {
         lv1: event.lv1,
         lv2: event.lv2,
         lv3: event.lv3,
         ind: event.ind,
-        event: event.event,
+        artwork: art_array,
         region: event.region,
         country: event.country,
-        picture: picture,
         start_date: event.start_date,
         end_date: event.end_date,
       }
