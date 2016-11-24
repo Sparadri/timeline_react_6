@@ -131,6 +131,10 @@
       box-shadow: 0 14px 28px rgba(0, 0, 0, 0.1), 0 5px 10px rgba(0, 0, 0, 0.1);
       border-radius: 0px 0px 3px 3px;
     }
+    .main-picture {
+      display: flex;
+      justify-content: center;
+    }
     .card-header {
       display: flex;
       flex-flow: row;
@@ -215,6 +219,8 @@
       }
       .art-date {
         align-self: center;
+        font-weight: bolder;
+        color: #717171;
         margin-right: 20px;
       }
     }

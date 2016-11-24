@@ -17,6 +17,14 @@ class Eventa
 
   def parse_csv
     CSV.foreach(@filepath, @csv_options) do |row|
+
+      picture_url = nil
+      unless row['picture'].nil?
+        pic = "#{Rails.root}/app/assets/images/#{row['picture']}.jpg"
+        cloud_pic = Cloudinary::Uploader.upload(File.open(pic))
+        picture_url = cloud_pic["secure_url"]
+      end
+
       lv1 = row['lv1'].downcase if row['lv1']
       lv2 = row['lv2'].downcase if row['lv2']
       lv3 = row['lv3'].downcase if row['lv3']
@@ -24,6 +32,7 @@ class Eventa
       event = row['event'].downcase if row['event']
       region = row["region"].downcase if row["region"]
       country = row["country"].downcase if row["country"]
+
       new_element = {
         lv1: lv1,
         lv2: lv2,
@@ -32,11 +41,12 @@ class Eventa
         event: event,
         region: region,
         country: country,
+        picture: picture_url,
         start_date: row["start_date"].to_i,
         end_date: row["end_date"].to_i,
         to_be_included: row["to_be_included"].to_i
       }
-      Event.create(new_element) unless new_element[:to_be_included] == 0
+      p Event.create(new_element) unless new_element[:to_be_included] == 0
     end
   end
 
@@ -72,7 +82,7 @@ class Worka
     end
 
     CSV.foreach(@filepath, @csv_options) do |row|
-      picture_url = 0
+      picture_url = nil
       unless row['picture'].nil?
         row['date']
         pic = "#{Rails.root}/app/assets/images/#{row['picture']}.jpg"
@@ -105,8 +115,8 @@ class Worka
   end
 end
 
-# Eventa.new
-# Worka.new
+Eventa.new
+Worka.new
 
 # Artwork.all.each do |art|
 #   art.movement = art.movement.downcase unless art.movement.nil?

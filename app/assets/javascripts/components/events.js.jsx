@@ -53,13 +53,11 @@ var ItemCard = React.createClass({
   },
   returnPicture: function() {
     if (this.props.item.picture != null) {
-      var url = this.props.item.picture.split("upload/").join("upload/bo_1px_solid_rgb:8c8bc7,c_fill,h_150,r_1,w_150/");
+      var url = this.props.item.picture.split("upload/").join("upload/bo_1px_solid_rgb:8c8bc7,c_fill,h_300,r_1,w_500/");
       return (
-        <img src={url}/>
-      )
-    } else {
-      return (
-        <div className="empty-pic"></div>
+        <div className="main-picture">
+          <img src={url}/>
+        </div>
       )
     }
   },
@@ -69,7 +67,7 @@ var ItemCard = React.createClass({
           {this.props.item.artwork.map(function(item, index) {
             return (
               <div key={index}>
-                <CardContent artwork={item}/>
+                <Artwork artwork={item}/>
               </div>
             )
           })}
@@ -92,7 +90,8 @@ var ItemCard = React.createClass({
             {this.props.item.region} | <span className="date"> {this.returnDate()}</span>
           </div>
         </div>
-          {this.returnArtwork()}
+        {this.returnPicture()}
+        {this.returnArtwork()}
         <div className="filters">
           <div className={filterItem}>
             {this.props.item.lv1}
@@ -109,7 +108,7 @@ var ItemCard = React.createClass({
   }
 });
 
-var CardContent = React.createClass({
+var Artwork = React.createClass({
   getInitialState() {
       return {
         is_selected: true

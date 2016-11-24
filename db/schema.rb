@@ -35,6 +35,7 @@ ActiveRecord::Schema.define(version: 20161030164635) do
     t.string   "ind"
     t.string   "event"
     t.string   "region"
+    t.string   "picture"
     t.string   "country"
     t.integer  "start_date"
     t.integer  "end_date"

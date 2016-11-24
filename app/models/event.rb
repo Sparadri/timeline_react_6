@@ -44,6 +44,7 @@ class Event < ActiveRecord::Base
         lv3: event.lv3,
         ind: event.ind,
         artwork: art_array,
+        picture: event.picture,
         region: event.region,
         country: event.country,
         start_date: event.start_date,
