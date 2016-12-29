@@ -21,6 +21,8 @@ ActiveRecord::Schema.define(version: 20161030164635) do
     t.integer  "ind_id"
     t.integer  "date"
     t.string   "detail"
+    t.string   "movement"
+    t.string   "genre"
     t.string   "picture"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
@@ -33,6 +35,7 @@ ActiveRecord::Schema.define(version: 20161030164635) do
     t.string   "ind"
     t.string   "event"
     t.string   "region"
+    t.string   "picture"
     t.string   "country"
     t.integer  "start_date"
     t.integer  "end_date"

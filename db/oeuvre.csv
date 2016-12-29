@@ -1,227 +1,328 @@
-name,ind,movement,date,detail,picture
-Arnolfini Portrait,Jan van Eyck,,1434,,jan-van-eyck---arnolfini-portrait
-La Vierge du chancelier Rolin,Jan van Eyck,,1435,,jan-van-eyck---la-vierge-du-chancelier-rolin
-Dome of the Florence Cathedral,Filippo Brunelleschi,,1436,,filippo-brunelleschi---dome-of-the-florence-cathedral
-Mona Lisa,Leonard de Vinci,,1503,,leonard-de-vinci---mona-lisa
-Fiesta Campreste,Titien,,1509,,titien---fiesta-campreste
-La Mélancolie,Albrecht Dürer,,1514,,albrecht-dürer---la-mélancolie
-La Crusifixion,Lucas Cranach the Elder,,1532,,lucas-cranach-the-elder---la-crusifixion
-Le corps du Christ mort au tombeau,Hans Holbein the Younger,,1532,,hans-holbein-the-younger---le-corps-du-christ-mort-au-tombeau
-Les ambassadeurs,Hans Holbein the Younger,,1533,,hans-holbein-the-younger---les-ambassadeurs
-Villa Barbaro,Andrea Palladio,,1560,,andrea-palladio---villa-barbaro
-La tour de Babel,Pieter Bruegel the Elder,,1563,,pieter-bruegel-the-elder---la-tour-de-babel
-Les Chasseurs dans la neige,Pieter Bruegel the Elder,,1565,,pieter-bruegel-the-elder---les-chasseurs-dans-la-neige
-La Leçon d'anatomie du docteur Tulp,Rembrandt Harmensz. van Rijn,,1632,,rembrandt-harmensz.-van-rijn---la-leçon-d'anatomie-du-docteur-tulp
-La Ronde de nuit,Rembrandt Harmensz. van Rijn,,1632,,rembrandt-harmensz.-van-rijn---la-ronde-de-nuit
-La laitière,Johannes Vermeer,,1658,,johannes-vermeer---la-laitière
-Vaux-Le-Vicomte,Louis Le Vau,,1661,,louis-le-vau---vaux-le-vicomte
-Vue de Delft,Johannes Vermeer,,1661,,johannes-vermeer---vue-de-delft
-Jeune fille à la perle,Johannes Vermeer,,1665,,johannes-vermeer---jeune-fille-à-la-perle
-Moulin près de Wijk bij Duurstede,Jacob van Ruisdael,,1670,,jacob-van-ruisdael---moulin-près-de-wijk-bij-duurstede
-verre d'eau et carafe,Jean-Siméon Chardin,,1720,,jean-siméon-chardin---verre-d'eau-et-carafe
-La raie,Jean-Siméon Chardin,Rococo,1728,,jean-siméon-chardin---la-raie
-La Richesse des Nations,Adam Smith,,1776,,
-Essai sur le principe de population,Thomas Malthus,,1803,,
-Tres de Mayo,Goya,,1814,,goya---tres-de-mayo
-Des sophismes politiques,Jeremy Bentham,,1816,,
-Des principes de l'économie politique et de l'impôt,David Ricardo,,1817,,
-Altes Museum (Berlin),Karl Friedrich Schinkel,,1830,,karl-friedrich-schinkel---altes-museum-(berlin)
-The Crystal Palace,Joseph Paxton,,1851,,joseph-paxton---the-crystal-palace
-Prison circulaire d’Autun,André Berthier (Bentham),,1855,,andré-berthier-(bentham)---prison-circulaire-d’autun
-Système national d'économie politique,Friedrich List,,1857,,
-les glaneuses,Gustave Courbet,Réalisme,1857,,gustave-courbet---les-glaneuses
-l'angelus,Jean-François Millet,Réalisme,1858,,jean-françois-millet---l'angelus
-Olympe,Édouard Manet,,1863,,édouard-manet---olympe
-Déjeuner sur l'herbe,Édouard Manet,,1863,,édouard-manet---déjeuner-sur-l'herbe
-Le Capital,Karl Marx,,1867,,
-L'Exécution de Maximilien,Édouard Manet,,1868,,édouard-manet---l'exécution-de-maximilien
-La Pie,Claude Monet,,1869,,claude-monet---la-pie
-Vue du canal Saint-Martin,Alfred Sisley,,1870,,alfred-sisley---vue-du-canal-saint-martin
-Bridge à Villeneuve-la-Garenne,Alfred Sisley,,1872,,alfred-sisley---bridge-à-villeneuve-la-garenne
-"Impression, soleil levant",Claude Monet,,1872,,"claude-monet---impression,-soleil-levant"
-Répétition d'un ballet sur la scène,Edgar Degas,,1873,,edgar-degas---répétition-d'un-ballet-sur-la-scène
-Argenteuil,Édouard Manet,Impressionisme,1874,,édouard-manet---argenteuil
-La classe de danse,Edgar Degas,,1874,,edgar-degas---la-classe-de-danse
-L'Absinthe,Edgar Degas,,1876,,edgar-degas---l'absinthe
-L'Inondation à Port-Marly,Alfred Sisley,,1876,,alfred-sisley---l'inondation-à-port-marly
-"La Place du Chenil à Marly, effet de neige",Alfred Sisley,,1876,,"alfred-sisley---la-place-du-chenil-à-marly,-effet-de-neige"
-bal du moulin de la galette,Pierre-Auguste Renoir,,1876,,pierre-auguste-renoir---bal-du-moulin-de-la-galette
-La gare Saint-Lazare,Claude Monet,,1877,,claude-monet---la-gare-saint-lazare
-Le Déjeuner des canotiers,Pierre-Auguste Renoir,,1881,,pierre-auguste-renoir---le-déjeuner-des-canotiers
-Familistère de Guise,Jean-Baptiste André Godin,,1883,,jean-baptiste-andré-godin---familistère-de-guise
-Problems of Economics and Sociology,Carl Menger,,1883,,
-Paysannes au travail,Georges Seurat,,1883,,georges-seurat---paysannes-au-travail
-Gardanne,Paul Cézanne,,1886,,paul-cézanne---gardanne
-Un dimanche après-midi à l'Île de la Grande Jatte,Georges Seurat,,1886,,georges-seurat---un-dimanche-après-midi-à-l'île-de-la-grande-jatte
-Vision après le Sermon,Paul Gauguin,,1888,,paul-gauguin---vision-après-le-sermon
-Terrasse du café le soir,Vincent van Gogh,,1888,,vincent-van-gogh---terrasse-du-café-le-soir
-La Maison et son entourage,Vincent van Gogh,,1888,,vincent-van-gogh---la-maison-et-son-entourage
-Tour Eiffel,Gustave Eiffel,,1889,,gustave-eiffel---tour-eiffel
-Le Christ Jaune,Paul Gauguin,,1889,,paul-gauguin---le-christ-jaune
-La nuit étoilée,Vincent van Gogh,,1889,,vincent-van-gogh---la-nuit-étoilée
-La Tour Eiffel,Georges Seurat,,1889,,georges-seurat---la-tour-eiffel
-Les Meules,Claude Monet,,1891,,claude-monet---les-meules
-Femmes de Tahiti,Paul Gauguin,,1891,,paul-gauguin---femmes-de-tahiti
-Les joueurs de cartes,Paul Cézanne,,1895,,paul-cézanne---les-joueurs-de-cartes
-"Boulevard Montmartre, Effet de nuit",Camille Pissarro,Impressionisme,1897,,"camille-pissarro---boulevard-montmartre,-effet-de-nuit"
-D'où venons-nous ? Que sommes-nous ? Où allons-nous ?,Paul Gauguin,,1897,,
-Les Grandes Baigneuses,Paul Cézanne,,1900,,paul-cézanne---les-grandes-baigneuses
-Vue de Londres,Claude Monet,,1901,,claude-monet---vue-de-londres
-Autoportrait,Pablo Picasso,,1901,,pablo-picasso---autoportrait
-Débarquement de sable,Albert Marquet,,1902,,albert-marquet---débarquement-de-sable
-Mont Sainte-Victoire,Paul Cézanne,,1904,,paul-cézanne---mont-sainte-victoire
-"Luxe, Calme et Volupté",Henri Matisse,,1904,,"henri-matisse---luxe,-calme-et-volupté"
-Paysage à côté de Chatou,André Derain,,1904,,andré-derain---paysage-à-côté-de-chatou
-Le bonheur de vivre,Henri Matisse,,1906,,henri-matisse---le-bonheur-de-vivre
-Paysage à côté de Cassis,André Derain,,1907,,andré-derain---paysage-à-côté-de-cassis
-Les Demoiselles d'Avignon,Pablo Picasso,Cubisme,1907,,pablo-picasso---les-demoiselles-d'avignon
-Anglers on the Rhine,August Macke,Expressionisme,1907,,august-macke---anglers-on-the-rhine
-Automne en Bavière,Wassily Kandinsky,,1908,,wassily-kandinsky---automne-en-bavière
-Rue à Murnau,Wassily Kandinsky,,1908,,wassily-kandinsky---rue-à-murnau
-Vence Landscape,Raoul Dufy,,1908,,raoul-dufy---vence-landscape
-Improvisation 4,Wassily Kandinsky,,1909,,wassily-kandinsky---improvisation-4
-Le Port de Hambourg,Albert Marquet,,1909,,albert-marquet---le-port-de-hambourg
-Danse,Henri Matisse,,1910,,henri-matisse---danse
-Man with a Guitar,Georges Braque,,1911,,georges-braque---man-with-a-guitar
-Fagus Factory,Walter Gropius,,1913,,walter-gropius---fagus-factory
-Composition VII,Wassily Kandinsky,,1913,,wassily-kandinsky---composition-vii
-Étude de couleurs,Wassily Kandinsky,,1913,,wassily-kandinsky---étude-de-couleurs
-Woman in a Green Jacket,August Macke,,1913,,august-macke---woman-in-a-green-jacket
-danseuse de flamenco,Sonia Delaunay,,1916,,sonia-delaunay---danseuse-de-flamenco
-Rue Du Mont Cenis sous la neige,Maurice Utrillo,,1917,,maurice-utrillo---rue-du-mont-cenis-sous-la-neige
-Pueblo Mountain,Marsden Hartley,Expressionism,1918,,marsden-hartley---pueblo-mountain
-Tribute Tower - Chicago,Raymond Hood,,1925,,raymond-hood---tribute-tower---chicago
-Terrasse à Vieux-Port,Albert Marquet,,1927,,albert-marquet---terrasse-à-vieux-port
-La trahison des images,René Magritte,Surréalisme,1928,,rené-magritte---la-trahison-des-images
-Railroad Sunset,Edward Hopper,,1929,,edward-hopper---railroad-sunset
-Chrysler Building - NYC,William Van Alen,Neogothic,1930,,william-van-alen---chrysler-building---nyc
-Composition II,Piet Mondrian,,1930,,piet-mondrian---composition-ii
-Early Sunday Morning,Edward Hopper,,1930,,edward-hopper---early-sunday-morning
-formes circulaires,Robert Delaunay,,1930,,robert-delaunay---formes-circulaires
-Composition 7,Sonia Delaunay,,1930,,sonia-delaunay---composition-7
-Villa Savoye,Le Corbusier,,1931,,le-corbusier---villa-savoye
-Rose décisif,Wassily Kandinsky,,1932,,wassily-kandinsky---rose-décisif
-Déjeuner sur l'herbe,Pablo Picasso,,1932,,pablo-picasso---déjeuner-sur-l'herbe
-"Deauville, Drying the Sails",Raoul Dufy,,1933,,"raoul-dufy---deauville,-drying-the-sails"
-Rue Du Mont Cenis In Montmartre,Maurice Utrillo,,1935,,maurice-utrillo---rue-du-mont-cenis-in-montmartre
-"Théorie générale de l'emploi, de l'intérêt et de la monnaie",John Maynard Keynes,,1936,,
-Villa Cavrois,Robert Mallet-Stevens,,1937,,robert-mallet-stevens---villa-cavrois
-Guernica,Pablo Picasso,,1937,,pablo-picasso---guernica
-Ice Cream Stand,William Henry Johnson,,1939,,william-henry-johnson---ice-cream-stand
-Street Musicians,William Henry Johnson,,1939,,william-henry-johnson---street-musicians
-Le Dictateur,Charlie Chaplin,,1940,,charlie-chaplin---le-dictateur
-"Capitalisme, Socialisme et Démocratie",Joseph Schumpeter,,1942,,
-Nighthawks,Edward Hopper,,1942,,edward-hopper---nighthawks
-Palo Alto Circle,Richard Diebenkorn,Expressionisme Abstrait,1943,,richard-diebenkorn---palo-alto-circle
-La route de la servitude,Friedrich Hayek,,1944,,
-The Liver is the Cock's Comb,Arshile Gorky,Expressionisme abstrait,1944,,arshile-gorky---the-liver-is-the-cock's-comb
-Dépouille,Jean Fautrier,Tachisme,1945,,jean-fautrier---dépouille
-Untitled,Jean Fautrier,,1947,,jean-fautrier---untitled
-Tête sur tige,Alberto Giacometti,,1947,,alberto-giacometti---tête-sur-tige
-Glass House,Philip Johnson,,1949,,philip-johnson---glass-house
-Untitled,Michael Loew,,1949,,michael-loew---untitled
-DSW,Charles Eames,Modern,1950,,charles-eames---dsw
-La Cité Radieuse,Le Corbusier,,1952,,le-corbusier---la-cité-radieuse
-Portfolio Theory,Harry Markowitz,,1952,,
-Nu bleu II,Henri Matisse,,1952,,henri-matisse---nu-bleu-ii
-Natura Morta,Giorgio Morandi,,1952,,giorgio-morandi---natura-morta
-Still Life (Natura morta),Giorgio Morandi,,1952,,giorgio-morandi---still-life-(natura-morta)
-Mediterranée,Nicolas de Staël,,1952,,nicolas-de-staël---mediterranée
-Study on Red and Yellow,Nicolas de Staël,,1952,,nicolas-de-staël---study-on-red-and-yellow
-Mediterranean Landscape,Nicolas de Staël,,1952,,nicolas-de-staël---mediterranean-landscape
-Lavendou,Nicolas de Staël,,1952,,nicolas-de-staël---lavendou
-Yale University Art Gallery,Louis Kahn,,1953,,louis-kahn---yale-university-art-gallery
-Notre Dame du Haut,Le Corbusier,,1954,,le-corbusier---notre-dame-du-haut
-Berkeley No. 8,Richard Diebenkorn,Expressionisme Abstrait,1954,,richard-diebenkorn---berkeley-no.-8
-Mona Lisa,Salvador Dali,,1954,,salvador-dali---mona-lisa
-Lounge Chair,Charles Eames,Modern,1956,,charles-eames---lounge-chair
-Orange and Yellow,Mark Rothko,,1956,,mark-rothko---orange-and-yellow
-Seagram Building,Ludwig Mies van der Rohe,,1957,,ludwig-mies-van-der-rohe---seagram-building
-Helvetica,Max Miedinger,,1957,,max-miedinger---helvetica
-No. 14,Mark Rothko,,1960,,mark-rothko---no.-14
-l'homme qui marche,Alberto Giacometti,,1961,,alberto-giacometti---l'homme-qui-marche
-"Orange, Red, Yellow",Mark Rothko,,1961,,"mark-rothko---orange,-red,-yellow"
-Court les rues,Jean Dubuffet,,1962,,jean-dubuffet---court-les-rues
-MetLife Building,John Lautner,Style International,1963,,john-lautner---metlife-building
-Capitalisme et liberté,Milton Friedman,,1963,,
-John F Kennedy,Elaine de Kooning,,1963,,elaine-de-kooning---john-f-kennedy
-Cityscape I,Richard Diebenkorn,Expressionisme Abstrait,1963,,richard-diebenkorn---cityscape-i
-Red Smile,Alex Katz,,1963,,alex-katz---red-smile
-Fallingwater,Frank Lloyd Wright,,1964,,frank-lloyd-wright---fallingwater
-Capital Asset Pricing Model,William F. Sharpe,,1964,,
-According to What,Jasper Johns,,1964,,jasper-johns---according-to-what
-Composition grise et rouge,Serge Poliakoff,,1964,,serge-poliakoff---composition-grise-et-rouge
-Cathedral of Brasilia,Oscar Niemeyer,,1970,,oscar-niemeyer---cathedral-of-brasilia
-The pricing and options and corporate liabilities,"Fischer Black, Myron Scholes",,1973,,
-Contrappunto piano,Fausto Melotti,,1973,,fausto-melotti---contrappunto-piano
-I love new York,Milton Glaser,,1977,,milton-glaser---i-love-new-york
-Painting,Pierre Soulages,,1979,,pierre-soulages---painting
-Site with Three Characters,Jean Dubuffet,,1982,,jean-dubuffet---site-with-three-characters
-Ada with Bathing Cap,Alex Katz,,1982,,alex-katz---ada-with-bathing-cap
-Pyramide du Louvre,Ieoh Ming Pei,,1989,,ieoh-ming-pei---pyramide-du-louvre
-Ignorance = Fear,Keith Haring,,1989,,keith-haring---ignorance-=-fear
-Dancing House,Frank Gehry,,1993,,frank-gehry---dancing-house
-Execution,Yue Minjun,,1995,,yue-minjun---execution
-Bilbao Guggenheim,Frank Gehry,,1997,,frank-gehry---bilbao-guggenheim
-iPod,Jon Ive,,2001,,jon-ive---ipod
-Walt Disney Concert Hall,Frank Gehry,,2003,,frank-gehry---walt-disney-concert-hall
-30 St Mary Axe,Norman Foster,,2003,,norman-foster---30-st-mary-axe
-New Kidd,Elizabeth Murray,,2004,,elizabeth-murray---new-kidd
-Louis Vuitton Fondation,Frank Gehry,,2006,,frank-gehry---louis-vuitton-fondation
-Hearst Tower,Norman Foster,,2006,,norman-foster---hearst-tower
-MacBook Pro,Jon Ive,,2006,,jon-ive---macbook-pro
-iPhone,Jon Ive,,2007,,jon-ive---iphone
-Obama,Yan Pei-Ming,,2009,,yan-pei-ming---obama
-Heydar Aliyev Center,Zaha Hadid,,2012,,zaha-hadid---heydar-aliyev-center
-Firestation,Alvaro Siza,,2013,,alvaro-siza---firestation
-Mona Lisa,Banksy,,2013,,banksy---mona-lisa
-,Philippe Starck,,,,
-,David Mellor,,,,
-,Dieter Rams,,,,
-,Frans Hals,,,,
-,Jean-Antoine Watteau,,,,
-,François Boucher,,,,
-,Thomas Gainsborough,,,,
-,Jean-Baptiste-Camille Corot,,,,
-,Honoré Daumier,,,,
-,James Abbott McNeill Whistler,,,,
-,Winslow Homer,,,,
-,Frédéric Bazille,,,,
-,Henri Rousseau,,,,
-,Gustave Caillebotte,,,,
-,Henry Ossawa Tanner,,,,
-,Paul Signac,,,,
-,Edvard Munch,,,,
-,Henri de Toulouse-Lautrec,,,,
-,Pierre Bonnard,,,,
-,Édouard Vuillard,,,,
-,Joaquín Torres-García,,,,
-,Jean Crotti,,,,
-,Fernand Léger,,,,
-,Max Pechstein,,,,
-,George Wesley Bellows,,,,
-,Julian Schnabel,,,,
-,Matt Mullican,,,,
-,Luc Tuymans,,,,
-,Neo Rauch,,,,
-,Jean-Michel Basquiat,,,,
-,Tim Eitel,,,,
-,Josh Smith,,,,
-,André Maire,,,,
-,Eugène Boudin,,,,
-,Francois Fiedler,,,,
-,Claire Tabouret,,,,
-,Willem de Kooning,,,,
-,Renaissance,,,,
-,Baroque,,,,
-,Les Principes de la philosophie (Cogito Ergo Sum),,,,
-,Thomas Hobbes,,,,
-,John Locke,,,,
-,Voltaire,,,,
-,Montesquieu,,,,
-,Denis Diderot,,,,
-,D'Alembert,,,,
-,Jean-Jacques Rousseau,,,,
-,Beaumarchais,,,,
-,Emmanuel Kant,,,,
-,Benjamin Constant,,,,
+name,ind,movement,genre,date,detail,picture,,
+Vaux-Le-Vicomte,Louis Le Vau,architecture classique,,1661,,louis-le-vau---vaux-le-vicomte,link,https://www.google.fr/search?q=Vaux-Le-Vicomte+Louis+Le+Vau
+Cathedral of Brasilia,Oscar Niemeyer,Architecture Futuriste,,1970,,oscar-niemeyer---cathedral-of-brasilia,link,https://www.google.fr/search?q=Cathedral+of+Brasilia+Oscar+Niemeyer
+Automne en Bavière,Wassily Kandinsky,Art abstrait,,1908,,wassily-kandinsky---automne-en-bavière,link,https://www.google.fr/search?q=Automne+en+Bavière+Wassily+Kandinsky
+Rue à Murnau,Wassily Kandinsky,Art abstrait,,1908,,wassily-kandinsky---rue-à-murnau,link,https://www.google.fr/search?q=Rue+à+Murnau+Wassily+Kandinsky
+Improvisation 4,Wassily Kandinsky,Art abstrait,,1909,,wassily-kandinsky---improvisation-4,link,https://www.google.fr/search?q=Improvisation+4+Wassily+Kandinsky
+Composition VII,Wassily Kandinsky,Art abstrait,,1913,,wassily-kandinsky---composition-vii,link,https://www.google.fr/search?q=Composition+VII+Wassily+Kandinsky
+Étude de couleurs,Wassily Kandinsky,Art abstrait,,1913,,wassily-kandinsky---étude-de-couleurs,link,https://www.google.fr/search?q=Étude+de+couleurs+Wassily+Kandinsky
+Composition II,Piet Mondrian,Art abstrait,,1930,,piet-mondrian---composition-ii,link,https://www.google.fr/search?q=Composition+II+Piet+Mondrian
+formes circulaires,Robert Delaunay,Art abstrait,,1930,,robert-delaunay---formes-circulaires,link,https://www.google.fr/search?q=formes+circulaires+Robert+Delaunay
+Rose décisif,Wassily Kandinsky,Art abstrait,,1932,,wassily-kandinsky---rose-décisif,link,https://www.google.fr/search?q=Rose+décisif+Wassily+Kandinsky
+Mediterranée,Nicolas de Staël,Art abstrait,,1952,,nicolas-de-staël---mediterranée,link,https://www.google.fr/search?q=Mediterranée+Nicolas+de+Staël
+Study on Red and Yellow,Nicolas de Staël,Art abstrait,,1952,,nicolas-de-staël---study-on-red-and-yellow,link,https://www.google.fr/search?q=Study+on+Red+and+Yellow+Nicolas+de+Staël
+Mediterranean Landscape,Nicolas de Staël,Art abstrait,,1952,,nicolas-de-staël---mediterranean-landscape,link,https://www.google.fr/search?q=Mediterranean+Landscape+Nicolas+de+Staël
+Lavendou,Nicolas de Staël,Art abstrait,,1952,,nicolas-de-staël---lavendou,link,https://www.google.fr/search?q=Lavendou+Nicolas+de+Staël
+Court les rues,Jean Dubuffet,Art abstrait,,1962,,jean-dubuffet---court-les-rues,link,https://www.google.fr/search?q=Court+les+rues+Jean+Dubuffet
+According to What,Jasper Johns,Art abstrait,,1964,,jasper-johns---according-to-what,link,https://www.google.fr/search?q=According+to+What+Jasper+Johns
+Painting,Pierre Soulages,Art abstrait,,1979,,pierre-soulages---painting,link,https://www.google.fr/search?q=Painting+Pierre+Soulages
+Site with Three Characters,Jean Dubuffet,Art abstrait,,1982,,jean-dubuffet---site-with-three-characters,link,https://www.google.fr/search?q=Site+with+Three+Characters+Jean+Dubuffet
+New Kidd,Elizabeth Murray,Art abstrait,,2004,,elizabeth-murray---new-kidd,link,https://www.google.fr/search?q=New+Kidd+Elizabeth+Murray
+tarde de carnaval,Henri Rousseau,Art naïf,,1886,,henri-rousseau---tarde-de-carnaval,link,https://www.google.fr/search?q=tarde+de+carnaval+Henri+Rousseau
+Abstract Art in Five Tones and Complementaries,Joaquín Torres-García,Constructivisme,Art Abstrait,1943,,,link,https://www.google.fr/search?q=Abstract+Art+in+Five+Tones+and+Complementaries+Joaquín+Torres-García
+Les Demoiselles d'Avignon,Pablo Picasso,Cubisme,,1907,,pablo-picasso---les-demoiselles-d'avignon,link,https://www.google.fr/search?q=Les+Demoiselles+d'Avignon+Pablo+Picasso
+Man with a Guitar,Georges Braque,Cubisme,,1911,,georges-braque---man-with-a-guitar,link,https://www.google.fr/search?q=Man+with+a+Guitar+Georges+Braque
+Mona Lisa,Salvador Dali,Dada,,1954,,salvador-dali---mona-lisa,link,https://www.google.fr/search?q=Mona+Lisa+Salvador+Dali
+Anglers on the Rhine,August Macke,Expressionisme,,1907,,august-macke---anglers-on-the-rhine,link,https://www.google.fr/search?q=Anglers+on+the+Rhine+August+Macke
+The Masked Woman,Max Pechstein,Expressionisme,,1910,,max-pechstein---the-masked-woman,link,https://www.google.fr/search?q=The+Masked+Woman+Max+Pechstein
+Pueblo Mountain,Marsden Hartley,Expressionisme,Pastoral,1918,,marsden-hartley---pueblo-mountain,link,https://www.google.fr/search?q=Pueblo+Mountain+Marsden+Hartley
+Palo Alto Circle,Richard Diebenkorn,Expressionisme abstrait,,1943,,richard-diebenkorn---palo-alto-circle,link,https://www.google.fr/search?q=Palo+Alto+Circle+Richard+Diebenkorn
+The Liver is the Cock's Comb,Arshile Gorky,Expressionisme abstrait,,1944,,arshile-gorky---the-liver-is-the-cock's-comb,link,https://www.google.fr/search?q=The+Liver+is+the+Cock's+Comb+Arshile+Gorky
+Untitled,Michael Loew,Expressionisme abstrait,,1949,,michael-loew---untitled,link,https://www.google.fr/search?q=Untitled+Michael+Loew
+Woman I,Willem de Kooning,Expressionisme abstrait,portrait,1951,,willem-de-kooning---woman-i,link,https://www.google.fr/search?q=Woman+I+Willem+de+Kooning
+Berkeley No. 8,Richard Diebenkorn,Expressionisme abstrait,,1954,,richard-diebenkorn---berkeley-no.-8,link,https://www.google.fr/search?q=Berkeley+No.+8+Richard+Diebenkorn
+Orange and Yellow,Mark Rothko,Expressionisme abstrait,,1956,,mark-rothko---orange-and-yellow,link,https://www.google.fr/search?q=Orange+and+Yellow+Mark+Rothko
+No. 14,Mark Rothko,Expressionisme abstrait,,1960,,mark-rothko---no.-14,link,https://www.google.fr/search?q=No.+14+Mark+Rothko
+"Orange, Red, Yellow",Mark Rothko,Expressionisme abstrait,,1961,,"mark-rothko---orange,-red,-yellow",link,"https://www.google.fr/search?q=Orange,+Red,+Yellow+Mark+Rothko"
+Cityscape I,Richard Diebenkorn,Expressionisme abstrait,,1963,,richard-diebenkorn---cityscape-i,link,https://www.google.fr/search?q=Cityscape+I+Richard+Diebenkorn
+John F Kennedy,Elaine de Kooning,Expressionnisme figuratif,,1963,,elaine-de-kooning---john-f-kennedy,link,https://www.google.fr/search?q=John+F+Kennedy+Elaine+de+Kooning
+Débarquement de sable,Albert Marquet,Fauvisme,,1902,,albert-marquet---débarquement-de-sable,link,https://www.google.fr/search?q=Débarquement+de+sable+Albert+Marquet
+Paysage à côté de Chatou,André Derain,Fauvisme,,1904,,andré-derain---paysage-à-côté-de-chatou,link,https://www.google.fr/search?q=Paysage+à+côté+de+Chatou+André+Derain
+Le bonheur de vivre,Henri Matisse,Fauvisme,Peinture historique,1906,,henri-matisse---le-bonheur-de-vivre,link,https://www.google.fr/search?q=Le+bonheur+de+vivre+Henri+Matisse
+Paysage à côté de Cassis,André Derain,Fauvisme,,1907,,andré-derain---paysage-à-côté-de-cassis,link,https://www.google.fr/search?q=Paysage+à+côté+de+Cassis+André+Derain
+Vence Landscape,Raoul Dufy,Fauvisme,,1908,,raoul-dufy---vence-landscape,link,https://www.google.fr/search?q=Vence+Landscape+Raoul+Dufy
+Le Port de Hambourg,Albert Marquet,Fauvisme,,1909,,albert-marquet---le-port-de-hambourg,link,https://www.google.fr/search?q=Le+Port+de+Hambourg+Albert+Marquet
+Danse,Henri Matisse,Fauvisme,,1910,,henri-matisse---danse,link,https://www.google.fr/search?q=Danse+Henri+Matisse
+Terrasse à Vieux-Port,Albert Marquet,Fauvisme,,1927,,albert-marquet---terrasse-à-vieux-port,link,https://www.google.fr/search?q=Terrasse+à+Vieux-Port+Albert+Marquet
+"Deauville, Drying the Sails",Raoul Dufy,Fauvisme,,1933,,"raoul-dufy---deauville,-drying-the-sails",link,"https://www.google.fr/search?q=Deauville,+Drying+the+Sails+Raoul+Dufy"
+Sur la plage de Trouville,Eugène Boudin,Impressionisme,,1868,,eugène-boudin---sur-la-plage-de-trouville,link,https://www.google.fr/search?q=Sur+la+plage+de+Trouville+Eugène+Boudin
+La Pie,Claude Monet,Impressionisme,Pastoral,1869,,claude-monet---la-pie,link,https://www.google.fr/search?q=La+Pie+Claude+Monet
+Vue du canal Saint-Martin,Alfred Sisley,Impressionisme,,1870,,alfred-sisley---vue-du-canal-saint-martin,link,https://www.google.fr/search?q=Vue+du+canal+Saint-Martin+Alfred+Sisley
+Bridge à Villeneuve-la-Garenne,Alfred Sisley,Impressionisme,,1872,,alfred-sisley---bridge-à-villeneuve-la-garenne,link,https://www.google.fr/search?q=Bridge+à+Villeneuve-la-Garenne+Alfred+Sisley
+"Impression, soleil levant",Claude Monet,Impressionisme,,1872,,"claude-monet---impression,-soleil-levant",link,"https://www.google.fr/search?q=Impression,+soleil+levant+Claude+Monet"
+Répétition d'un ballet sur la scène,Edgar Degas,Impressionisme,Peinture historique,1873,,edgar-degas---répétition-d'un-ballet-sur-la-scène,link,https://www.google.fr/search?q=Répétition+d'un+ballet+sur+la+scène+Edgar+Degas
+La classe de danse,Edgar Degas,Impressionisme,Peinture historique,1874,,edgar-degas---la-classe-de-danse,link,https://www.google.fr/search?q=La+classe+de+danse+Edgar+Degas
+Argenteuil,Édouard Manet,Impressionisme,Peinture historique,1874,,édouard-manet---argenteuil,link,https://www.google.fr/search?q=Argenteuil+Édouard+Manet
+L'Inondation à Port-Marly,Alfred Sisley,Impressionisme,Peinture historique,1876,,alfred-sisley---l'inondation-à-port-marly,link,https://www.google.fr/search?q=L'Inondation+à+Port-Marly+Alfred+Sisley
+"La Place du Chenil à Marly, effet de neige",Alfred Sisley,Impressionisme,Peinture historique,1876,,"alfred-sisley---la-place-du-chenil-à-marly,-effet-de-neige",link,"https://www.google.fr/search?q=La+Place+du+Chenil+à+Marly,+effet+de+neige+Alfred+Sisley"
+L'Absinthe,Edgar Degas,Impressionisme,Peinture historique,1876,,edgar-degas---l'absinthe,link,https://www.google.fr/search?q=L'Absinthe+Edgar+Degas
+bal du moulin de la galette,Pierre-Auguste Renoir,Impressionisme,Peinture historique,1876,,pierre-auguste-renoir---bal-du-moulin-de-la-galette,link,https://www.google.fr/search?q=bal+du+moulin+de+la+galette+Pierre-Auguste+Renoir
+La gare Saint-Lazare,Claude Monet,Impressionisme,,1877,,claude-monet---la-gare-saint-lazare,link,https://www.google.fr/search?q=La+gare+Saint-Lazare+Claude+Monet
+rue de paris temps de pluie,Gustave Caillebotte,Impressionisme,,1877,,gustave-caillebotte---rue-de-paris-temps-de-pluie,link,https://www.google.fr/search?q=rue+de+paris+temps+de+pluie+Gustave+Caillebotte
+Le Déjeuner des canotiers,Pierre-Auguste Renoir,Impressionisme,Peinture historique,1881,,pierre-auguste-renoir---le-déjeuner-des-canotiers,link,https://www.google.fr/search?q=Le+Déjeuner+des+canotiers+Pierre-Auguste+Renoir
+"Boulevard Montmartre, Effet de nuit",Camille Pissarro,Impressionisme,,1897,,"camille-pissarro---boulevard-montmartre,-effet-de-nuit",link,"https://www.google.fr/search?q=Boulevard+Montmartre,+Effet+de+nuit+Camille+Pissarro"
+Les Meules,Claude Monet,Impressionnisme,,1891,,claude-monet---les-meules,link,https://www.google.fr/search?q=Les+Meules+Claude+Monet
+DSW,Charles Eames,Modern,,1950,,charles-eames---dsw,link,https://www.google.fr/search?q=DSW+Charles+Eames
+Lounge Chair,Charles Eames,Modern,,1956,,charles-eames---lounge-chair,link,https://www.google.fr/search?q=Lounge+Chair+Charles+Eames
+Poison Oasis,Jean-Michel Basquiat,Neo-expressionisme,Art Abstrait,1981,,jean-michel-basquiat---poison-oasis,link,https://www.google.fr/search?q=Poison+Oasis+Jean-Michel+Basquiat
+Ignorance = Fear,Keith Haring,Neo-expressionisme,Street Art,1989,,keith-haring---ignorance-=-fear,link,https://www.google.fr/search?q=Ignorance+=+Fear+Keith+Haring
+Chrysler Building - NYC,William Van Alen,Neogothic,,1930,,william-van-alen---chrysler-building---nyc,link,https://www.google.fr/search?q=Chrysler+Building+-+NYC+William+Van+Alen
+danseuse de flamenco,Sonia Delaunay,Orphisme,,1916,,sonia-delaunay---danseuse-de-flamenco,link,https://www.google.fr/search?q=danseuse+de+flamenco+Sonia+Delaunay
+Composition 7,Sonia Delaunay,Orphisme,,1930,,sonia-delaunay---composition-7,link,https://www.google.fr/search?q=Composition+7+Sonia+Delaunay
+Problems of Economics and Sociology,Carl Menger,Pointillisme,,1883,,,link,https://www.google.fr/search?q=Problems+of+Economics+and+Sociology+Carl+Menger
+Paysannes au travail,Georges Seurat,Pointillisme,,1883,,georges-seurat---paysannes-au-travail,link,https://www.google.fr/search?q=Paysannes+au+travail+Georges+Seurat
+Un dimanche après-midi à l'Île de la Grande Jatte,Georges Seurat,Pointillisme,,1886,,georges-seurat---un-dimanche-après-midi-à-l'île-de-la-grande-jatte,link,https://www.google.fr/search?q=Un+dimanche+après-midi+à+l'Île+de+la+Grande+Jatte+Georges+Seurat
+La Tour Eiffel,Georges Seurat,Pointillisme,,1889,,georges-seurat---la-tour-eiffel,link,https://www.google.fr/search?q=La+Tour+Eiffel+Georges+Seurat
+"Luxe, Calme et Volupté",Henri Matisse,Pointillisme,Peinture historique,1904,,"henri-matisse---luxe,-calme-et-volupté",link,"https://www.google.fr/search?q=Luxe,+Calme+et+Volupté+Henri+Matisse"
+Red Smile,Alex Katz,Pop Art,,1963,,alex-katz---red-smile,link,https://www.google.fr/search?q=Red+Smile+Alex+Katz
+Ada with Bathing Cap,Alex Katz,Pop Art,,1982,,alex-katz---ada-with-bathing-cap,link,https://www.google.fr/search?q=Ada+with+Bathing+Cap+Alex+Katz
+Gardanne,Paul Cézanne,Post impressionisme,,1886,,paul-cézanne---gardanne,link,https://www.google.fr/search?q=Gardanne+Paul+Cézanne
+Vision après le Sermon,Paul Gauguin,Post impressionisme,,1888,,paul-gauguin---vision-après-le-sermon,link,https://www.google.fr/search?q=Vision+après+le+Sermon+Paul+Gauguin
+Terrasse du café le soir,Vincent van Gogh,Post impressionisme,,1888,,vincent-van-gogh---terrasse-du-café-le-soir,link,https://www.google.fr/search?q=Terrasse+du+café+le+soir+Vincent+van+Gogh
+La Maison et son entourage,Vincent van Gogh,Post impressionisme,,1888,,vincent-van-gogh---la-maison-et-son-entourage,link,https://www.google.fr/search?q=La+Maison+et+son+entourage+Vincent+van+Gogh
+La nuit étoilée,Vincent van Gogh,Post impressionisme,Pastoral,1889,,vincent-van-gogh---la-nuit-étoilée,link,https://www.google.fr/search?q=La+nuit+étoilée+Vincent+van+Gogh
+Femmes de Tahiti,Paul Gauguin,Post impressionisme,Peinture historique,1891,,paul-gauguin---femmes-de-tahiti,link,https://www.google.fr/search?q=Femmes+de+Tahiti+Paul+Gauguin
+Les joueurs de cartes,Paul Cézanne,Post impressionisme,,1895,,paul-cézanne---les-joueurs-de-cartes,link,https://www.google.fr/search?q=Les+joueurs+de+cartes+Paul+Cézanne
+femme à sa toilette,Henri de Toulouse-Lautrec,Post impressionisme,,1896,,henri-de-toulouse-lautrec---femme-à-sa-toilette,link,https://www.google.fr/search?q=femme+à+sa+toilette+Henri+de+Toulouse-Lautrec
+D'où venons-nous ? Que sommes-nous ? Où allons-nous ?,Paul Gauguin,Post impressionisme,,1897,,,link,https://www.google.fr/search?q=D'où+venons-nous+?+Que+sommes-nous+?+Où+allons-nous+?+Paul+Gauguin
+Les Grandes Baigneuses,Paul Cézanne,Post impressionisme,,1900,,paul-cézanne---les-grandes-baigneuses,link,https://www.google.fr/search?q=Les+Grandes+Baigneuses+Paul+Cézanne
+Mont Sainte-Victoire,Paul Cézanne,Post impressionisme,,1904,,paul-cézanne---mont-sainte-victoire,link,https://www.google.fr/search?q=Mont+Sainte-Victoire+Paul+Cézanne
+Rue Du Mont Cenis sous la neige,Maurice Utrillo,Post impressionisme,,1917,,maurice-utrillo---rue-du-mont-cenis-sous-la-neige,link,https://www.google.fr/search?q=Rue+Du+Mont+Cenis+sous+la+neige+Maurice+Utrillo
+Rue Du Mont Cenis In Montmartre,Maurice Utrillo,Post impressionisme,,1935,,maurice-utrillo---rue-du-mont-cenis-in-montmartre,link,https://www.google.fr/search?q=Rue+Du+Mont+Cenis+In+Montmartre+Maurice+Utrillo
+terrasse à vernon,Pierre Bonnard,Post impressionisme,,1939,,pierre-bonnard---terrasse-à-vernon,link,https://www.google.fr/search?q=terrasse+à+vernon+Pierre+Bonnard
+Le pont de Narni,Jean-Baptiste-Camille Corot,Réalisme,Pastoral,1826,,,link,https://www.google.fr/search?q=Le+pont+de+Narni+Jean-Baptiste-Camille+Corot
+les glaneuses,Gustave Courbet,Réalisme,,1857,,gustave-courbet---les-glaneuses,link,https://www.google.fr/search?q=les+glaneuses+Gustave+Courbet
+l'angelus,Jean-François Millet,Réalisme,,1858,,jean-françois-millet---l'angelus,link,https://www.google.fr/search?q=l'angelus+Jean-François+Millet
+Olympe,Édouard Manet,Réalisme,,1863,,édouard-manet---olympe,link,https://www.google.fr/search?q=Olympe+Édouard+Manet
+Déjeuner sur l'herbe,Édouard Manet,Réalisme,,1863,,édouard-manet---déjeuner-sur-l'herbe,link,https://www.google.fr/search?q=Déjeuner+sur+l'herbe+Édouard+Manet
+L'Exécution de Maximilien,Édouard Manet,Réalisme,,1868,,édouard-manet---l'exécution-de-maximilien,link,https://www.google.fr/search?q=L'Exécution+de+Maximilien+Édouard+Manet
+The Fox Hunt,Winslow Homer,Réalisme,Peinture animalière,1893,,winslow-homer---the-fox-hunt,link,https://www.google.fr/search?q=The+Fox+Hunt+Winslow+Homer
+The Thankful Poor,Henry Ossawa Tanner,Réalisme,,1894,,henry-ossawa-tanner---the-thankful-poor,link,https://www.google.fr/search?q=The+Thankful+Poor+Henry+Ossawa+Tanner
+The Gulf Stream,Winslow Homer,Réalisme,Marine,1899,,winslow-homer---the-gulf-stream,link,https://www.google.fr/search?q=The+Gulf+Stream+Winslow+Homer
+Stag at Sharkey's,George Wesley Bellows,Réalisme,,1909,,,link,https://www.google.fr/search?q=Stag+at+Sharkey's+George+Wesley+Bellows
+Railroad Sunset,Edward Hopper,Réalisme,Pastoral,1929,,edward-hopper---railroad-sunset,link,https://www.google.fr/search?q=Railroad+Sunset+Edward+Hopper
+Early Sunday Morning,Edward Hopper,Réalisme,,1930,,edward-hopper---early-sunday-morning,link,https://www.google.fr/search?q=Early+Sunday+Morning+Edward+Hopper
+Nighthawks,Edward Hopper,Réalisme,,1942,,edward-hopper---nighthawks,link,https://www.google.fr/search?q=Nighthawks+Edward+Hopper
+Execution,Yue Minjun,Réalisme,,1995,,yue-minjun---execution,link,https://www.google.fr/search?q=Execution+Yue+Minjun
+Arnolfini Portrait,Jan van Eyck,Renaissance allemande,Portrait,1434,,jan-van-eyck---arnolfini-portrait,link,https://www.google.fr/search?q=Arnolfini+Portrait+Jan+van+Eyck
+La Vierge du chancelier Rolin,Jan van Eyck,Renaissance allemande,Religieux,1435,,jan-van-eyck---la-vierge-du-chancelier-rolin,link,https://www.google.fr/search?q=La+Vierge+du+chancelier+Rolin+Jan+van+Eyck
+La Mélancolie,Albrecht Dürer,Renaissance allemande,Religieux,1514,,albrecht-dürer---la-mélancolie,link,https://www.google.fr/search?q=La+Mélancolie+Albrecht+Dürer
+Le corps du Christ mort au tombeau,Hans Holbein the Younger,Renaissance allemande,Religieux,1532,,hans-holbein-the-younger---le-corps-du-christ-mort-au-tombeau,link,https://www.google.fr/search?q=Le+corps+du+Christ+mort+au+tombeau+Hans+Holbein+the+Younger
+La Crusifixion,Lucas Cranach the Elder,Renaissance allemande,Religieux,1532,,lucas-cranach-the-elder---la-crusifixion,link,https://www.google.fr/search?q=La+Crusifixion+Lucas+Cranach+the+Elder
+Les ambassadeurs,Hans Holbein the Younger,Renaissance allemande,Portrait,1533,,hans-holbein-the-younger---les-ambassadeurs,link,https://www.google.fr/search?q=Les+ambassadeurs+Hans+Holbein+the+Younger
+La tour de Babel,Pieter Bruegel the Elder,Renaissance allemande,,1563,,pieter-bruegel-the-elder---la-tour-de-babel,link,https://www.google.fr/search?q=Renaissance+allemande+Pieter+Bruegel+the+Elder
+Les Chasseurs dans la neige,Pieter Bruegel the Elder,Renaissance allemande,,1565,,pieter-bruegel-the-elder---les-chasseurs-dans-la-neige,link,https://www.google.fr/search?q=Les+Chasseurs+dans+la+neige+Pieter+Bruegel+the+Elder
+Dome of the Florence Cathedral,Filippo Brunelleschi,Renaissance italienne,,1436,,filippo-brunelleschi---dome-of-the-florence-cathedral,link,https://www.google.fr/search?q=Dome+of+the+Florence+Cathedral+Filippo+Brunelleschi
+Mona Lisa,Leonard de Vinci,Renaissance italienne,Portrait,1503,,leonard-de-vinci---mona-lisa,link,https://www.google.fr/search?q=Mona+Lisa+Leonard+de+Vinci
+Fiesta Campreste,Titien,Renaissance italienne,Paysage,1509,,titien---fiesta-campreste,link,https://www.google.fr/search?q=Fiesta+Campreste+Titien
+Villa Barbaro,Andrea Palladio,Renaissance italienne,,1560,,andrea-palladio---villa-barbaro,link,https://www.google.fr/search?q=Villa+Barbaro+Andrea+Palladio
+L'Enseigne de Gersaint,Jean-Antoine Watteau,Rococo,Peinture historique,1720,,,link,https://www.google.fr/search?q=L'Enseigne+de+Gersaint+Jean-Antoine+Watteau
+verre d'eau et carafe,Jean-Siméon Chardin,Rococo,,1720,,jean-siméon-chardin---verre-d'eau-et-carafe,link,https://www.google.fr/search?q=verre+d'eau+et+carafe+Jean-Siméon+Chardin
+La raie,Jean-Siméon Chardin,Rococo,,1728,,jean-siméon-chardin---la-raie,link,https://www.google.fr/search?q=La+raie+Jean-Siméon+Chardin
+Tres de Mayo,Goya,Romantisme,History painting,1814,,goya---tres-de-mayo,link,https://www.google.fr/search?q=Tres+de+Mayo+Goya
+La Leçon d'anatomie du docteur Tulp,Rembrandt Harmensz. van Rijn,siècle d'or néerlandais,,1632,,rembrandt-harmensz.-van-rijn---la-leçon-d'anatomie-du-docteur-tulp,link,https://www.google.fr/search?q=La+Leçon+d'anatomie+du+docteur+Tulp+Rembrandt+Harmensz.+van+Rijn
+La Ronde de nuit,Rembrandt Harmensz. van Rijn,siècle d'or néerlandais,,1632,,rembrandt-harmensz.-van-rijn---la-ronde-de-nuit,link,https://www.google.fr/search?q=La+Ronde+de+nuit+Rembrandt+Harmensz.+van+Rijn
+La laitière,Johannes Vermeer,siècle d'or néerlandais,,1658,,johannes-vermeer---la-laitière,link,https://www.google.fr/search?q=La+laitière+Johannes+Vermeer
+Vue de Delft,Johannes Vermeer,siècle d'or néerlandais,,1661,,johannes-vermeer---vue-de-delft,link,https://www.google.fr/search?q=Vue+de+Delft+Johannes+Vermeer
+Jeune fille à la perle,Johannes Vermeer,siècle d'or néerlandais,,1665,,johannes-vermeer---jeune-fille-à-la-perle,link,https://www.google.fr/search?q=Jeune+fille+à+la+perle+Johannes+Vermeer
+Moulin près de Wijk bij Duurstede,Jacob van Ruisdael,siècle d'or néerlandais,,1670,,jacob-van-ruisdael---moulin-près-de-wijk-bij-duurstede,link,https://www.google.fr/search?q=Moulin+près+de+Wijk+bij+Duurstede+Jacob+van+Ruisdael
+MetLife Building,John Lautner,Style International,,1963,,john-lautner---metlife-building,link,https://www.google.fr/search?q=MetLife+Building+John+Lautner
+La trahison des images,René Magritte,Surréalisme,,1928,,rené-magritte---la-trahison-des-images,link,https://www.google.fr/search?q=La+trahison+des+images+René+Magritte
+Le Christ Jaune,Paul Gauguin,Symbolisme,,1889,,paul-gauguin---le-christ-jaune,link,https://www.google.fr/search?q=Le+Christ+Jaune+Paul+Gauguin
+Dépouille,Jean Fautrier,Tachisme,,1945,,jean-fautrier---dépouille,link,https://www.google.fr/search?q=Dépouille+Jean+Fautrier
+Untitled,Jean Fautrier,Tachisme,,1947,,jean-fautrier---untitled,link,https://www.google.fr/search?q=Untitled+Jean+Fautrier
+Composition grise et rouge,Serge Poliakoff,Tachisme,,1964,,serge-poliakoff---composition-grise-et-rouge,link,https://www.google.fr/search?q=Composition+grise+et+rouge+Serge+Poliakoff
+La Richesse des Nations,Adam Smith,,,1776,,,link,https://www.google.fr/search?q=La+Richesse+des+Nations+Adam+Smith
+Essai sur le principe de population,Thomas Malthus,,,1803,,,link,https://www.google.fr/search?q=Essai+sur+le+principe+de+population+Thomas+Malthus
+Des sophismes politiques,Jeremy Bentham,,,1816,,,link,https://www.google.fr/search?q=Des+sophismes+politiques+Jeremy+Bentham
+Des principes de l'économie politique et de l'impôt,David Ricardo,,,1817,,,link,https://www.google.fr/search?q=Des+principes+de+l'économie+politique+et+de+l'impôt+David+Ricardo
+Altes Museum (Berlin),Karl Friedrich Schinkel,,,1830,,karl-friedrich-schinkel---altes-museum-(berlin),link,https://www.google.fr/search?q=Altes+Museum+(Berlin)+Karl+Friedrich+Schinkel
+L'Émeute,Honoré Daumier,,,1848,,honoré-daumier---l'émeute,link,https://www.google.fr/search?q=L'Émeute+Honoré+Daumier
+The Crystal Palace,Joseph Paxton,,,1851,,joseph-paxton---the-crystal-palace,link,https://www.google.fr/search?q=The+Crystal+Palace+Joseph+Paxton
+Prison circulaire d’Autun,André Berthier (Bentham),,,1855,,andré-berthier-(bentham)---prison-circulaire-d’autun,link,https://www.google.fr/search?q=Prison+circulaire+d’Autun+André+Berthier+(Bentham)
+Système national d'économie politique,Friedrich List,,,1857,,,link,https://www.google.fr/search?q=Système+national+d'économie+politique+Friedrich+List
+Le Capital,Karl Marx,,,1867,,,link,https://www.google.fr/search?q=Le+Capital+Karl+Marx
+Nocturne: Blue and Gold – Old Battersea Bridge,James Abbott McNeill Whistler,,,1872,,james-abbott-mcneill-whistler---nocturne-blue-and-gold-–-old-battersea-bridge,link,https://www.google.fr/search?q=Nocturne:+Blue+and+Gold+–+Old+Battersea+Bridge+James+Abbott+McNeill+Whistler
+Familistère de Guise,Jean-Baptiste André Godin,,,1883,,jean-baptiste-andré-godin---familistère-de-guise,link,https://www.google.fr/search?q=Familistère+de+Guise+Jean-Baptiste+André+Godin
+Tour Eiffel,Gustave Eiffel,,,1889,,gustave-eiffel---tour-eiffel,link,https://www.google.fr/search?q=Tour+Eiffel+Gustave+Eiffel
+Vue de Londres,Claude Monet,,,1901,,claude-monet---vue-de-londres,link,https://www.google.fr/search?q=Vue+de+Londres+Claude+Monet
+Autoportrait,Pablo Picasso,,,1901,,pablo-picasso---autoportrait,link,https://www.google.fr/search?q=Autoportrait+Pablo+Picasso
+Woman in a Green Jacket,August Macke,,,1913,,august-macke---woman-in-a-green-jacket,link,https://www.google.fr/search?q=Woman+in+a+Green+Jacket+August+Macke
+Fagus Factory,Walter Gropius,,,1913,,walter-gropius---fagus-factory,link,https://www.google.fr/search?q=Fagus+Factory+Walter+Gropius
+Tribute Tower - Chicago,Raymond Hood,,,1925,,raymond-hood---tribute-tower---chicago,link,https://www.google.fr/search?q=Tribute+Tower+-+Chicago+Raymond+Hood
+Villa Savoye,Le Corbusier,,,1931,,le-corbusier---villa-savoye,link,https://www.google.fr/search?q=Villa+Savoye+Le+Corbusier
+Déjeuner sur l'herbe,Pablo Picasso,,,1932,,pablo-picasso---déjeuner-sur-l'herbe,link,https://www.google.fr/search?q=Déjeuner+sur+l'herbe+Pablo+Picasso
+"Théorie générale de l'emploi, de l'intérêt et de la monnaie",John Maynard Keynes,,,1936,,,link,"https://www.google.fr/search?q=Théorie+générale+de+l'emploi,+de+l'intérêt+et+de+la+monnaie+John+Maynard+Keynes"
+Guernica,Pablo Picasso,,,1937,,pablo-picasso---guernica,link,https://www.google.fr/search?q=Guernica+Pablo+Picasso
+Villa Cavrois,Robert Mallet-Stevens,,,1937,,robert-mallet-stevens---villa-cavrois,link,https://www.google.fr/search?q=Villa+Cavrois+Robert+Mallet-Stevens
+Ice Cream Stand,William Henry Johnson,,,1939,,william-henry-johnson---ice-cream-stand,link,https://www.google.fr/search?q=Ice+Cream+Stand+William+Henry+Johnson
+Street Musicians,William Henry Johnson,,,1939,,william-henry-johnson---street-musicians,link,https://www.google.fr/search?q=Street+Musicians+William+Henry+Johnson
+Le Dictateur,Charlie Chaplin,,,1940,,charlie-chaplin---le-dictateur,link,https://www.google.fr/search?q=Le+Dictateur+Charlie+Chaplin
+"Capitalisme, Socialisme et Démocratie",Joseph Schumpeter,,,1942,,,link,"https://www.google.fr/search?q=Capitalisme,+Socialisme+et+Démocratie+Joseph+Schumpeter"
+La route de la servitude,Friedrich Hayek,,,1944,,,link,https://www.google.fr/search?q=La+route+de+la+servitude+Friedrich+Hayek
+Tête sur tige,Alberto Giacometti,,,1947,,alberto-giacometti---tête-sur-tige,link,https://www.google.fr/search?q=Tête+sur+tige+Alberto+Giacometti
+Glass House,Philip Johnson,,,1949,,philip-johnson---glass-house,link,https://www.google.fr/search?q=Glass+House+Philip+Johnson
+Natura Morta,Giorgio Morandi,,,1952,,giorgio-morandi---natura-morta,link,https://www.google.fr/search?q=Natura+Morta+Giorgio+Morandi
+Still Life (Natura morta),Giorgio Morandi,,,1952,,giorgio-morandi---still-life-(natura-morta),link,https://www.google.fr/search?q=Still+Life+(Natura+morta)+Giorgio+Morandi
+Portfolio Theory,Harry Markowitz,,,1952,,,link,https://www.google.fr/search?q=Portfolio+Theory+Harry+Markowitz
+Nu bleu II,Henri Matisse,,,1952,,henri-matisse---nu-bleu-ii,link,https://www.google.fr/search?q=Nu+bleu+II+Henri+Matisse
+La Cité Radieuse,Le Corbusier,,,1952,,le-corbusier---la-cité-radieuse,link,https://www.google.fr/search?q=La+Cité+Radieuse+Le+Corbusier
+Yale University Art Gallery,Louis Kahn,,,1953,,louis-kahn---yale-university-art-gallery,link,https://www.google.fr/search?q=Yale+University+Art+Gallery+Louis+Kahn
+Notre Dame du Haut,Le Corbusier,,,1954,,le-corbusier---notre-dame-du-haut,link,https://www.google.fr/search?q=Notre+Dame+du+Haut+Le+Corbusier
+Bord De Mer Au Vietnam,André Maire,,,1955,,andré-maire---bord-de-mer-au-vietnam,link,https://www.google.fr/search?q=Bord+De+Mer+Au+Vietnam+André+Maire
+Seagram Building,Ludwig Mies van der Rohe,,,1957,,ludwig-mies-van-der-rohe---seagram-building,link,https://www.google.fr/search?q=Seagram+Building+Ludwig+Mies+van+der+Rohe
+Helvetica,Max Miedinger,,,1957,,max-miedinger---helvetica,link,https://www.google.fr/search?q=Helvetica+Max+Miedinger
+l'homme qui marche,Alberto Giacometti,,,1961,,alberto-giacometti---l'homme-qui-marche,link,https://www.google.fr/search?q=l'homme+qui+marche+Alberto+Giacometti
+Capitalisme et liberté,Milton Friedman,,,1963,,,,https://www.google.fr/search?q=Capitalisme+et+liberté+Milton+Friedman
+Fallingwater,Frank Lloyd Wright,,,1964,,frank-lloyd-wright---fallingwater,,https://www.google.fr/search?q=Fallingwater+Frank+Lloyd+Wright
+Capital Asset Pricing Model,William F. Sharpe,,,1964,,,,https://www.google.fr/search?q=Capital+Asset+Pricing+Model+William+F.+Sharpe
+Contrappunto piano,Fausto Melotti,,,1973,,fausto-melotti---contrappunto-piano,,https://www.google.fr/search?q=Contrappunto+piano+Fausto+Melotti
+The pricing and options and corporate liabilities,"Fischer Black, Myron Scholes",,,1973,,,,"https://www.google.fr/search?q=The+pricing+and+options+and+corporate+liabilities+Fischer+Black,+Myron+Scholes"
+I love new York,Milton Glaser,,,1977,,milton-glaser---i-love-new-york,,https://www.google.fr/search?q=I+love+new+York+Milton+Glaser
+Pyramide du Louvre,Ieoh Ming Pei,Style International,,1989,,ieoh-ming-pei---pyramide-du-louvre,,https://www.google.fr/search?q=Pyramide+du+Louvre+Ieoh+Ming+Pei
+Dancing House,Frank Gehry,,,1993,,frank-gehry---dancing-house,,https://www.google.fr/search?q=Dancing+House+Frank+Gehry
+Bilbao Guggenheim,Frank Gehry,,,1997,,frank-gehry---bilbao-guggenheim,,https://www.google.fr/search?q=Bilbao+Guggenheim+Frank+Gehry
+iPod,Jon Ive,,,2001,,jon-ive---ipod,,https://www.google.fr/search?q=iPod+Jon+Ive
+Walt Disney Concert Hall,Frank Gehry,,,2003,,frank-gehry---walt-disney-concert-hall,,https://www.google.fr/search?q=Walt+Disney+Concert+Hall+Frank+Gehry
+30 St Mary Axe,Norman Foster,,,2003,,norman-foster---30-st-mary-axe,,https://www.google.fr/search?q=30+St+Mary+Axe+Norman+Foster
+Louis Vuitton Fondation,Frank Gehry,,,2006,,frank-gehry---louis-vuitton-fondation,,https://www.google.fr/search?q=Louis+Vuitton+Fondation+Frank+Gehry
+MacBook Pro,Jon Ive,,,2006,,jon-ive---macbook-pro,,https://www.google.fr/search?q=MacBook+Pro+Jon+Ive
+Hearst Tower,Norman Foster,,,2006,,norman-foster---hearst-tower,,https://www.google.fr/search?q=Hearst+Tower+Norman+Foster
+iPhone,Jon Ive,,,2007,,jon-ive---iphone,,https://www.google.fr/search?q=iPhone+Jon+Ive
+Obama,Yan Pei-Ming,,,2009,,yan-pei-ming---obama,,https://www.google.fr/search?q=Obama+Yan+Pei-Ming
+Heydar Aliyev Center,Zaha Hadid,,,2012,,zaha-hadid---heydar-aliyev-center,,https://www.google.fr/search?q=Heydar+Aliyev+Center+Zaha+Hadid
+Firestation,Alvaro Siza,,,2013,,alvaro-siza---firestation,,https://www.google.fr/search?q=Firestation+Alvaro+Siza
+Mona Lisa,Banksy,,,2013,,banksy---mona-lisa,,https://www.google.fr/search?q=Mona+Lisa+Banksy
+,Baroque,,,,,,,https://www.google.fr/search?q=+Baroque
+,Beaumarchais,,,,,,,https://www.google.fr/search?q=+Beaumarchais
+,Benjamin Constant,,,,,,,https://www.google.fr/search?q=+Benjamin+Constant
+,Claire Tabouret,,,,,,,https://www.google.fr/search?q=+Claire+Tabouret
+,D'Alembert,,,,,,,https://www.google.fr/search?q=+D'Alembert
+,David Mellor,,,,,,,https://www.google.fr/search?q=+David+Mellor
+,Denis Diderot,,,,,,,https://www.google.fr/search?q=+Denis+Diderot
+,Dieter Rams,,,,,,,https://www.google.fr/search?q=+Dieter+Rams
+,Édouard Vuillard,,,,,,,https://www.google.fr/search?q=+Édouard+Vuillard
+,Edvard Munch,,,,,,,https://www.google.fr/search?q=+Edvard+Munch
+,Emmanuel Kant,,,,,,,https://www.google.fr/search?q=+Emmanuel+Kant
+,Fernand Léger,,,,,,,https://www.google.fr/search?q=+Fernand+Léger
+,François Boucher,,,,,,,https://www.google.fr/search?q=+François+Boucher
+,Francois Fiedler,,,,,,,https://www.google.fr/search?q=+Francois+Fiedler
+,Frans Hals,,,,,,,https://www.google.fr/search?q=+Frans+Hals
+,Frédéric Bazille,,,,,,,https://www.google.fr/search?q=+Frédéric+Bazille
+,Jean Crotti,,,,,,,https://www.google.fr/search?q=+Jean+Crotti
+,Jean-Jacques Rousseau,,,,,,,https://www.google.fr/search?q=+Jean-Jacques+Rousseau
+,John Locke,,,,,,,https://www.google.fr/search?q=+John+Locke
+,Josh Smith,,,,,,,https://www.google.fr/search?q=+Josh+Smith
+,Julian Schnabel,,,,,,,https://www.google.fr/search?q=+Julian+Schnabel
+,Les Principes de la philosophie (Cogito Ergo Sum),,,,,,,https://www.google.fr/search?q=+Les+Principes+de+la+philosophie+(Cogito+Ergo+Sum)
+,Luc Tuymans,,,,,,,https://www.google.fr/search?q=+Luc+Tuymans
+,Montesquieu,,,,,,,https://www.google.fr/search?q=+Montesquieu
+,Paul Signac,,,,,,,https://www.google.fr/search?q=+Paul+Signac
+,Philippe Starck,,,,,,,
+,Thomas Gainsborough,,,,,,,https://www.google.fr/search?q=+Thomas+Gainsborough
+,Thomas Hobbes,,,,,,,https://www.google.fr/search?q=+Thomas+Hobbes
+,Tim Eitel,,,,,,,https://www.google.fr/search?q=+Tim+Eitel
+,Voltaire,,,,,,,https://www.google.fr/search?q=+Voltaire
+Aigle emblême impérial,Premier Empire | Napoléon Ier,,,1805,En référence aux aigles romaines,,,
+Concordat,Premier Empire | Napoléon Ier,,,1801,"Reconnaît le catholicisme comme la religion « de la majorité des Français », et non plus comme religion d’État; calcul politique: valeur morale du sacre religieux aux yeux des catholiques + valeur symbolique d’un couronnement pontifical rappelant le sacre des empereurs germaniques. Napoléon se place à l’égal, voire au-dessus des rois européens comme successeur de Charlemagne et des empereurs de la Rome antique. François II l'avait d'ailleurs bien compris puisqu'après la proclamation de l'Empire français, il décrète que l'Autriche, alors archiduché, devient aussi un Empire.",,,
+Bataille d’Austerlitz,Premier Empire | Napoléon Ier,,,1805,"Dîte «bataille des Trois-Empereurs». Napoléon brise les anciennes conceptions militaires. Pas guerre de siège à l’aide de 30k hommes, mais cherche la bataille décisive, engageant plus de 100k hommes. Objectif: anéantir l’ennemi.",,,
+Création Noblesse d’Empire,Premier Empire | Napoléon Ier,,,1808,,,,
+Bataille de Wagram,Premier Empire | Napoléon Ier,,,1809,,,,
+Mariage Marie-Louise d’ Autriche,Premier Empire | Napoléon Ier,,,1810,,,,
+Naissance de son fils,Premier Empire | Napoléon Ier,,,1811,"Napoléon donne à Napoléon François Charles Joseph le titre de ""roi de Rome""",,,
+Commande l’arc de triomphe de l’Étoile,Premier Empire | Napoléon Ier,,,1806,,,,
+Baccalauréat,Premier Empire | Napoléon Ier,,,1808,,,,
+Code pénal,Premier Empire | Napoléon Ier,,,1810,,,,
+Code civil,Premier Empire | Napoléon Ier,,,1804,"Ensemble des règles qui déterminent le statut des personnes, des biens et des relations entre les personnes privées",,,
+Bataille de Trafalgar,Premier Empire | Napoléon Ier,,,1805,"France + Espagne vs. uk > victoire UK, Napoléon doit renoncer à envahir UK, malgré supériorité numérique",,,
+Palais Brongniart,Premier Empire | Napoléon Ier,,,1808,Destiné à accueillir bourse de Paris. Edifice entouré d'un péristyle de style corinthien,,,
+percée de la rue de Rivoli,Premier Empire | Napoléon Ier,,,1802,"Nom d’une ville italienne, victoire de Napoléon",,,
+construction du Palais d’Orsay,Premier Empire | Napoléon Ier,,,1810,Bâtiment administratif,,,
+cour des comptes,Premier Empire | Napoléon Ier,,,1807,,,,
+mise en service du père Lachaise,Premier Empire | Napoléon Ier,,,1804,1810: carré juif; 1853: carré musulman,,,
+pont des arts,Premier Empire | Napoléon Ier,,,1803,,,,
+pont d’austerlitz,Premier Empire | Napoléon Ier,,,1806,,,,
+pont d'iéna,Premier Empire | Napoléon Ier,,,1814,,,,
+#VALUE!,,,,,,,,
+mariage avec Marie-Thérèse d’Autriche,Louis XIV,,,1660,Fille du roi d'Espagne,,,
+construction Pont Royal,Louis XIV,,,1689,,,,
+aménagement champs elysées,Louis XIV,,,1670,par le Nôtre,,,
+construction hôtel des invalides,Louis XIV,,,1670,architecture classique française,,,
+construction place vendôme,Louis XIV,,,1686,,,,
+construction place des victoires,Louis XIV,,,1685,,,,
+construction porte saint-denis,Louis XIV,,,1672,,,,
+construction porte saint-martin,Louis XIV,,,1674,,,,
+Colbert Inspecteur Général des Finances,Louis XIV,,,1674,,,,
+Mort de Mazaring,Louis XIV,,,1661,,,,
+Marine française,Louis XIV,,,1661,FR: 10 vaisseaux / UK: 157 / Provinces-Unies: 87 > Colbert va accroître la dépense considérablement,,,
+Révocation de l'édit de Nantes,Louis XIV,,,1685,"Edit de Fontainebleau: Royaume comme exclusivement catholique, les temples sont transformés en églises, persécution des juifs",,,
+Canal du Midi,Louis XIV,,,1681,Relie Atlantique à Méditérranée,,,
+Versailles,Louis XIV,,,1682,,,,
+Acte de La Haye,Provinces-Unies,,,1581,"Alors sous contrôle du Roi d'Espagne, prennent leur indépendance et se constituent en fédération (7 provinces + dépendances)",,,
+États généraux des Provinces-Unies,Provinces-Unies,,,1586,"Se constituent sous forme d'une République pour la mise en commun de certaines politiques militaires et navales, de politiques étrangères ainsi que religieuses",,,
+Fin guerre contre Espagne,Provinces-Unies,,,1609,,,,
+création cité Rochechouart,Second Empire | Napoléon III,,,1851,Premiers logements sociaux: s’inspire phalanstères de Charles Fourier et dans l'Icarie d'Étienne Cabet,,,
+reconnaissance droit de grève,Second Empire | Napoléon III,,,1864,,,,
+autorisation associations à caractère syndical,Second Empire | Napoléon III,,,1866,,,,
+ouvre secondaire aux filles,Second Empire | Napoléon III,,,1965,Par Victor Duruy (ministre éducation national),,,
+permet l’ouverture d’un salon des refusés,Second Empire | Napoléon III,,,1863,,,,
+annexion du comté de Nice et de la Savoie,Second Empire | Napoléon III,,,1860,,,,
+traité cobden-chevalier,Second Empire | Napoléon III,,,1860,Traité de libre-échange destiné à abolir les taxes douanières sur les matières premières et la majorité des produits alimentaires entre les deux pays.,,,
+construction grande halle de Paris (pavillon Baltard),Second Empire | Napoléon III,,,1852,par Victor Baltard (dernier pavillon construit en 1930),,,
+création grande halle de la Villette,Second Empire | Napoléon III,,,1867,"Halle aux boeufs, abattoirs, par Jules de Mérindol (élève de Baltard)",,,
+Data,Second Empire | Napoléon III,,,1865,42% des parisiens ne paient pas d’impôt (categorie la plus défavoriée),,,
+Préambule,Saint-Empire romain germanique,,,962,"En raison de son caractère pré-national et supranational, le Saint Empire romain ne s'est jamais développé en un État-nation moderne, comme la France ou le Royaume-Uni. Le Saint Empire est resté un tissu monarchique et corporatif dirigé par un empereur et les états impériaux avec très peu d'institutions impériales communes.",,,
+Traités de Westphalie,Saint-Empire romain germanique,,,1648,"Fin de la guerre de 30 ans et guerre de 80 ans, avec Provinces-Unies (les Pays-Bas) à l'Espagne et la France (Mazarin) au Saint-Empire romain germanique.",,,
+Congrès de Vienne,Saint-Empire romain germanique,,,1815,,,,
+Data,Second Empire | Napoléon III,,,1870,Défaite de Sedan.,,,
+Compromis Austro-hongrois,Autriche-Hongrie,,,1867,"Donne naissance à la double monarchie austro-hongroise  (et non empire hostro-hongrois), laisent les peuples slavent (tcheques, slovaques, polonais, ukraniens, etc...) et latins (italiens et roumains)",,,
+Traité de Saint-Germain-en-Lay,Autriche-Hongrie,,,1919,Consacre l'effondrement de la monarchie austro-hongroise : l'ancien Empire des Habsbourg est démantelé et remplacé par une demi-douzaine d'États successeurs,,,
+Traité de Presbourg,Empire d’Autriche,,,1805,Conduisit François Ier à abandonner son titre d'empereur des Romains et à prendre celui d’empereur d'Autriche,,,
+Guerre Austro-Prussionne,Empire d’Autriche,,,1866,"Empire d’Autriche et confédération germanique vs. Royaume de Prusse. Surnommée la guerre fratricide allemande. La Prusse, militaire, industrielle et protestante, aspirait à diriger une nouvelle Allemagne, unifiée sous son aile et excluant l'Autriche, empire catholique, agraire et multi-ethnique (avec une majorité de peuples non-germaniques). Point culminant de la lutte pour la suprématie en Allemagne que se livraient le Royaume de Prusse et l'Empire d'Autriche depuis 1740.",,,
+Première Diète d’Empire,Saint Empire Romain Germanique,,,754,"Institution du Saint-Empire chargée de veiller sur les affaires générales et de trouver une solution aux différends qui pourraient s'élever entre les États confédérés. Etats impériaux (royaume de Bohême, le comté palatin du Rhin, le duché de Saxe ou la marche de Brandebourg.), princes électeurs (élisent l’empereur), villes d’empire (appartenance aux états impériaux n'est pas liée à une personne mais à une ville en tant qu'ensemble représenté par un conseil: Lübeck, Hambourg, Brême, Francfort, Augsbourg et Nurember. Les diètes ont lieu dans des villes différentes.",,,
+Abdication de François II,Saint Empire Romain Germanique,,,1806,"Sous la menace d'une guerre avec la France. Napoléon impose sa vision de l'Europe, les États qui prennent part à la Confédération fournissent à la France des troupes et en retour, sont agrandis au détriment des principautés épiscopales et des villes libres. François II ne se contente pas seulement de déposer sa couronne, il dissout entièrement le Saint-Empire sans l'approbation de la Diète d'Empire en proclamant : « Nous délions en même temps les électeurs, princes et États, et tous les membres de l'Empire, nommément aussi les membres des tribunaux suprêmes et autres officiers de l'Empire, de tous les devoirs par lesquels ils étaient liés à Nous, comme Chef légal de l'Empire, par la constitution211 ». Il dissout également les territoires de l'Empire relevant de son propre pouvoir et les soumet à l'empire autrichien. Même si la dissolution de l'Empire ne suit aucun caractère juridique, il n'y a aucune volonté ni aucun pouvoir pour le préserver.",,,
+Bataille d’Austerlitz,Saint Empire Romain Germanique,,,1805,"Le Traité de Presbourg que Napoléon dicte à François II et au tsar Alexandre Ier scelle la fin de l'Empire203. Napoléon y impose en effet que la Bavière soit érigée en royaume comme le Wurtemberg et le Bade, se retrouvant ainsi à égalité avec la Prusse et l'Autriche. C'est la structure de l'Empire qui est une nouvelle fois attaquée puisqu'en acquérant leur pleine souveraineté, ces royaumes s'en détachent. C'est d'ailleurs ce que souligne une remarque de Napoléon à son ministre des Affaires étrangères Talleyrand : « J'aurai cependant arrangé la partie de l'Allemagne qui m'intéresse : il n'y aura plus de diète à Ratisbonne, puisque Ratisbonne appartiendra à la Bavière ; il n'y aura donc plus d'Empire Germanique, et nous nous en tiendrons là204 ».",,,
+Traité de la Confédération du Rhin,Saint Empire Romain Germanique,,,1806,"Seize États quittent le Saint-Empire et forment la Confédération (appelée dans le traité « États confédérés du Rhin »). Napoléon Ier en est le « protecteur ». Le 6 août 1806, François II renonce à son titre d'empereur élu d'Allemagne3 et dissout le Saint-Empire romain germanique fondé en 962 par Otton Ier",,,
+La France // guerre de 30 ans,Saint Empire Romain Germanique,,,1635,"La France intervient dans la guerre de 30 ans. Richelieu intervient au côté des protestants pour empêcher un renforcement du pouvoir des Habsbourg en Allemagne, la situation tourne en la défaveur de l'empereur159. C'est à ce moment-là que la guerre de religion à l'origine allemande devient un combat hégémonique à l'échelle européenne",,,
+"Frédéric Ier, roi en Prusse",Royaume de Prusse,,,1701,"Frédéric III, électeur du Saint-Empire romain germanique, devient Frédéric Ier, roi en Prusse. Personne en effet ne peut être couronné roi à l'intérieur du Saint-Empire romain germanique, mais la Prusse se trouve à l'extérieur.",,,
+Zollverein,Royaume de Prusse,,,1834,"Fut créée une union douanière, le Zollverein entre la Prusse et une trentaine d’états allemands du Nord",,,
+Guerre de Sept Ans,Royaume de Prusse,,,1756,"Prusse et UK contre Autriche, la France, la Suède, la Russie, l’Espagne et la Saxe. But: envahir Saxe et Bohème mais échec.",,,
+Bataille d'Iéna,Royaume de Prusse,,,1806,"Défaite contre Napoléon, qui s’empart de Berlin, qui intègre la Prusse à la confédération du Rhin",,,
+Prusse intégré à Empire allemand,Royaume de Prusse,,,1871,Intégré à l'Empire allemand,,,
+campagne de France,Royaume de Prusse,,,1814,"Fin de la guerre liée à la Sixième Coalition, qui se déroule de fin décembre 1813 à avril 1814 et pendant laquelle Napoléon Ier tente d'éviter ou d'arrêter l'invasion de la France et de conserver son trône. Malgré plusieurs victoires et après l'entrée des troupes prussiennes et russes dans Paris, l'empereur abdique le 6 avril 1814 et part en exil à l'île d'Elbe",,,
+dépêche d’Ems,Royaume de Prusse,,,1870,"Prétexte à la guerre franco-prussienne. télégramme du chancelier prussien Bismarck pour apaiser es craintes d'encerclement de la France, suite à la candidature d’un Prince au trône d’Espagne.",,,
+guerre franco-allemande,Royaume de Prusse,,,1870,"Guerre franco-prussienne ou guerre de 1870. La défaite de Sedan et la capitulation de Napoléon III, chute du Second Empire, l'exil de Napoléon III et marqua la naissance en France d'un régime républicain pérenne avec la Troisième République. La guerre franco-allemande s’inscrivit dans le contexte troublé du xixe siècle où les aspirations nationales de peuples s’exprimèrent à plusieurs reprises sans toujours aboutir à la création d’un État-nation.",,,
+Don aux états pontificaux,Etats pontificaux,,,754,"Pépin le Bref reçoit le Pape et s'engage à créer les États pontificaux par la donation de l'exarchat de Ravenne au pape. En contrepartie, celui-ci reconnaît la dynastie carolingienne et approuve la relégation au couvent qui a été imposée au roi mérovingien Childéric III. De 756 à 758, Pépin lance trois campagnes (couronnées de succès), pour parvenir à repousser les Lombards et finalement livrer au pape les territoires conquis",,,
+Indépendance,Etats pontificaux,,,1177,Indépendance vis-à-vis du saint empire,,,
+Intégrés à République romaine,Etats pontificaux,,,1798,"Suite à invasion de l’Italie par la France, qui demande au Pape de quitter Rome",,,
+Rétablissement,Etats pontificaux,,,1800,Lorsque les troupes napolitaines reprennent Rome,,,
+Intégrés à Empire français,Etats pontificaux,,,1809,Napoléon décide d'annexer les États pontificaux à l'Empire français pour former les départements,,,
+Congrès de Vienne,Etats pontificaux,,,1815,Rétablit les Etats Pontificaux,,,
+Intégrés à République romaine,Etats pontificaux,,,1849,,,,
+Rétablissement,Etats pontificaux,,,1849,,,,
+Rattachée au royaume d'Italie,Etats pontificaux,,,1870,Unification après l'évacuation des troupes françaises,,,
+,Etats pontificaux,,,1870,"Saint-Siège se trouve sans assise territoriale et donc sans légitimité autre, en la matière, que son rôle d'incarnation de l'Église catholique. Cependant, ses relations avec les autres pays se poursuivent",,,
+accords du Latran,Etats pontificaux,,,1929,"Signés avec Mussolini, donne naissance à Etat de la cité du Vatican, distinct du Saint-Siège. Le Saint-Siège existe et opère au sein de la communauté internationale comme la personnification juridique de l'Église. » C'est avec lui et non l'État du Vatican que les États entretiennent des liens diplomatiques.",,,
+Création,confédération de l’Allemagne du Nord,,,1867,"Sur initiative du ministre-président de Prusse Otto von Bismarck à la suite de la guerre austro-prussienne de 1866 et de la dissolution de la Confédération germanique. Pour ne pas heurter Napoléon III, Otto von Bismarck n’inclut pas les États du Sud de l’Allemagne (les royaumes de Bavière et de Wurtemberg, le Grand-duché de Bade, le sud du Hesse-Darmstadt) dans la confédération de l'Allemagne du Nord. la confédération de l'Allemagne du Nord revient au roi de Prusse",,,
+création de l’empire allemand,confédération de l’Allemagne du Nord,,,1871,Donne lieu à la création de l’empire allemand,,,
+roi de Prusse Guillaume Ier proclamé kaiser,empire allemand,,,1871,"Roi de Prusse Guillaume Ier est proclamé kaiser à Versailles le 18 janvier 1871 après la victoire de l'Allemagne contre la France de Napoléon III à l'issue de la Guerre franco-allemande de 1870. aboutissement de la formation d'un régime impérial dominé par la Prusse, la maison des Hohenzollern et indépendante de l'Autriche",,,
+défaite de la deuxième guerre mondiale,empire allemand,,,1918,Fin avec la défaite de la deuxième guerre mondiale: Démantèlement de l'empire colonial allemand et des empires austro-hongrois et ottoman.,,,
+Pépin Le Bref couronné,Royaumes francs,,,751,Pépin roi des Francs de 751 et fonde la dynastie carolingienne,,,
+Concile de Tours,Royaumes francs,,,813,"Ordonne que prêches soient faits en langue vulgaire et non plus en latin, afin d'être compris par tous.",,,
+traité de Meerssen,Royaumes francs,,,870,"Conclu entre Charles le Chauve et Louis le Germanique et consacre le partage de la Lotharingie, le royaume de leur neveu Lothaire II.",,,
+Traité de Prüm,Royaumes francs,,,855,Division de l'empire de Lothaire Ierentre ses trois fils,,,
+Clovis couronné,Royaumes francs,,,481,Clovis est couronné roi des Francs saliens,,,
+bataille de soissons,Royaumes francs,,,486,Bataille de Soissons : victoire contre le « roi des Romains » Syagrius,,,
+Mort de Clovis,Royaumes francs,,,511,"Mort de Clovis. Le royaume franc est partagé en cinq royaumes (Orléans, Paris, Soissons, Reims, Burgondes) entre ses fils, comme le prévoit la loi salique.",,,
+Bataille de Poitiers,Royaumes francs,,,732,,,,
+Monnaie unique,Royaumes francs,,,781,Charlemagne impose une monnaie unique (le denier d'argent) à tout le Royaume afin de l'unifier,,,
+Début âge des Vikings,Royaumes francs,,,793,marqué par le siège de Paris puis par les incursions dans ce qui deviendra le duché de Normandie,,,
+Charlemagne sacré à Rome Empereur d'Occident,Royaumes francs,,,800,Début de l'Empire carolingien. Adoption du calendrier de l'ère chrétienne,,,
+Traité de Verdun,Royaumes francs,,,843,"Traité de Verdun: les trois fils de Louis le Pieux se partagent l'Empire, qui est alors dissout en trois royaumes : la Francie occidentale, la Francie médiane et la Francie orientale (Germanie)",,,
+Mort de Louis V,Royaumes francs,,,987,Louis V meurt sans descendance. Élection d'Hugues Capet avec l'appui de l'Église et des Ottoniens. Fondation de la dynastie capétienne. Instauration du principe de primogéniture masculine pour la succession au trône.,,,
+population,Empire Romain,,,117,88m d'habitants // 5m de km2,,,
+Constantinople,Empire Romain,,,330,Constantin Ier fonde la ville de Constantinople (à la place de Byzance),,,
+Fin Empire romain d'occident,Empire Romain,,,476,,,,
+Création de la Turquie,Empire ottoman,,,1923,,,,
+Abolition du califat,Empire ottoman,,,1924,,,,
+Prise de Constantinople,Empire ottoman,,,1453,Renommé Istanbul,,,
